@@ -63,13 +63,34 @@ The voice stays the same. The format changes.
 | TikTok | 20–45 sec script | Hook in first 2 seconds. Spoken, simple, one takeaway. |
 | WhatsApp | 3–6 short lines | Direct and personal. Key level or lesson. Long disclaimer on broadcasts. |
 
-## 7. Language
+## 7. Writing promotional content
+
+TMD is research-first and education-first. Broker referral content is a small, clearly marked minority (see `BRAND/brand-identity.md` → Commercial disclosure policy).
+
+When a piece mentions a broker, referral link or account opening:
+
+1. **Say what it is.** State the commercial relationship in plain words, before or beside the CTA.
+2. **Drop "independent".** Do not describe TMD as independent, unbiased or neutral in that piece.
+3. **Invite, don't push.** One calm CTA. No urgency, no repeated asks, no "last chance".
+4. **Sell nothing about outcomes.** No returns, no income, no "start earning".
+5. **Verify broker facts.** Only state what the broker's own current documentation confirms.
+6. **Keep it separate.** Do not attach a referral CTA to a research note or lesson.
+
+| Do | Don't |
+|---|---|
+| "If you want to trade with the broker we work with, the link is below. We are paid by the broker if you use it. It is optional." | "Open an account with our trusted partner today and start profiting!" |
+| "We have a commercial relationship with this broker, so treat this as promotion, not a review." | "Our independent pick for the best broker." |
+| "Our lessons stay free whether you use the link or not." | "Sign up through us to unlock the full strategy." |
+
+Any jurisdiction-specific wording (risk warnings, licence numbers, loss statistics) is marked `[COMPLIANCE REVIEW REQUIRED]` until reviewed.
+
+## 8. Language
 
 - Default: English.
 - Other languages / local variants: _TBD — see unresolved decisions in README._
 - Whatever the language, the rules in sections 2–5 still apply.
 
-## 8. Pre-publish checklist
+## 9. Pre-publish checklist
 
 - [ ] Does the first line carry the point?
 - [ ] Is every factual claim true and sourced?
@@ -78,4 +99,6 @@ The voice stays the same. The format changes.
 - [ ] No guaranteed returns, no invented credentials, no fake urgency?
 - [ ] No banned AI phrases?
 - [ ] Disclaimer included?
+- [ ] Classified as educational or promotional, with no referral CTA in educational content?
+- [ ] If promotional: commercial disclosure beside the CTA, no "independent" wording, compliance review passed?
 - [ ] Would a serious market professional respect this?

@@ -122,7 +122,13 @@ Rules:
 - Interim: set `THE MARKET DOCTRINE` in the headline serif, all caps, wide letter-spacing, warm ivory on black.
 - Do not improvise new logo marks per post.
 
-## 8. Pre-publish visual checklist
+## 8. Promotional assets
+
+- Same restrained look as educational content. No louder colours, badges or "offer" graphics.
+- The commercial disclosure must be readable on the asset or in the first lines of the caption, not hidden in small low-contrast text.
+- Broker logos or names appear only with the broker's permission and only on promotional assets.
+
+## 9. Pre-publish visual checklist
 
 - [ ] Background is black or charcoal?
 - [ ] Gold used once, sparingly?

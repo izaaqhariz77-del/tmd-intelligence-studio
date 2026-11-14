@@ -5,18 +5,29 @@
 
 ## 1. What we are
 
-THE MARKET DOCTRINE (TMD) is an independent financial research, trading education and media brand.
+THE MARKET DOCTRINE (TMD) is an independent financial research and trading education media brand that also operates as a transparently disclosed acquisition channel for its Introducing Broker (IB) business.
 
-- **Research** — structured observation of markets: what moved, why it may have moved, what to watch.
-- **Education** — teaching process: how to read a market, manage risk and review decisions.
-- **Media** — publishing that research and education across social and messaging channels.
+It is not a pure media company. It has three pillars:
+
+1. **Independent financial research and market intelligence** — structured observation of markets: what moved, why it may have moved, what to watch.
+2. **Trading education and methodology** — teaching process: how to read a market, manage risk and review decisions.
+3. **Transparent, voluntary Introducing Broker acquisition** — readers who choose to open a broker account may do so through TMD's referral, with the commercial relationship disclosed.
+
+**Positioning:** research-first and education-first. Pillar 3 is always the smallest voice in the room. TMD never does aggressive broker promotion.
+
+### What "independent" means here
+
+- It describes our **research and views**: they are our own and are not written to suit a broker.
+- It does **not** mean commercially disinterested. TMD earns from broker referrals.
+- Never use "independent", "unbiased" or "neutral" in or next to any content that mentions a broker, a referral link or an account opening. In that context, say plainly that TMD has a commercial relationship.
 
 ## 2. What we are not
 
-- Not a broker, fund, bank or asset manager.
+- Not a broker, fund, bank or asset manager. An Introducing Broker refers clients to a broker; it does not hold client funds or execute trades.
 - Not a signal service. We do not tell people what to buy or sell.
 - Not a licensed financial adviser, unless and until that status is real and documented in this file.
 - Not a promise of income, returns or lifestyle.
+- Not a neutral reviewer of brokers. We have a commercial interest and say so.
 
 ## 3. Personality
 
@@ -64,6 +75,13 @@ Only facts listed here may be stated publicly about the brand. If it is not in t
 | Track record / performance | _Not recorded_ | | |
 | Audience size / client numbers | _Not recorded_ | | |
 | Partnerships / affiliations | _Not recorded_ | | |
+| Business model: media brand + IB acquisition channel | Confirmed by owner | Owner decision | 2026-11-14 |
+| Partner broker name(s) | _Not recorded_ | | |
+| Partner broker regulator(s) and licence numbers | _Not recorded_ | | |
+| How TMD is compensated (e.g. spread/commission share) | _Not recorded_ | | |
+| Jurisdictions where referrals are accepted / excluded | _Not recorded_ | | |
+
+> Promotional content cannot be published until the four broker rows above are completed and checked.
 
 ## 7. Claims policy (non-negotiable)
 
@@ -76,9 +94,44 @@ Never publish:
 - Fabricated testimonials or screenshots.
 - Fake scarcity or urgency ("only 3 seats left" when untrue).
 
-If a commercial relationship exists (affiliate, introducing broker, sponsorship), it must be disclosed wherever the related content appears.
+- Any suggestion that TMD is a neutral or disinterested party when a broker is being discussed.
+- Any claim about a broker (regulation, spreads, safety of funds, execution) that is not verified against the broker's own current documentation.
 
-## 8. Standard disclaimers
+## 8. Commercial disclosure policy
+
+### 8.1 Two content classes
+
+Every piece of content is labelled internally as one of these before it is written.
+
+| | Educational | Promotional |
+|---|---|---|
+| Purpose | Teach or inform | Invite an account opening through TMD |
+| Mentions a broker, referral link or account opening | No | Yes |
+| Disclosure | Standard disclaimer | Commercial disclosure, placed before or beside the CTA |
+| May use "independent" | Yes, for the research | No |
+| Share of output | The large majority | A small minority |
+
+Rules:
+
+1. **Keep them distinct.** Do not slip a referral CTA into a research note or lesson. If a piece mentions a broker or a referral, the whole piece is promotional and is treated as such.
+2. **Disclose where the reader sees it.** The disclosure sits in the post itself, near the CTA. Not only in a bio, a link page or a comment.
+3. **Voluntary.** Education is never withheld, gated or degraded for people who do not use the referral. No pressure, no countdowns, no "you need this broker to follow our method".
+4. **No trading incentives presented as free money.** Bonuses, rebates or account offers are stated with their conditions, or not at all.
+5. **Profile-level disclosure.** Each channel bio or about section states that TMD has an Introducing Broker relationship. This supports, and does not replace, per-post disclosure.
+6. **Ratio is not yet fixed.** Proposed working limit: no more than 1 promotional piece in 10. Confirm in README → unresolved decisions.
+
+### 8.2 Jurisdiction review gate
+
+Rules on promoting leveraged trading and broker referrals differ by country, and some restrict or prohibit it. Before any promotional content is published:
+
+- [ ] Target country or countries identified.
+- [ ] Partner broker is permitted to accept clients from there.
+- [ ] Required wording (risk warnings, loss-percentage statements, licence numbers) confirmed by a qualified reviewer.
+- [ ] Platform advertising rules checked (Meta, TikTok and others have their own financial-promotion policies).
+
+Any draft containing compliance wording that has not passed this gate is marked **`[COMPLIANCE REVIEW REQUIRED]`** at the top and is not published.
+
+## 9. Standard disclaimers
 
 **Short (social captions):**
 
@@ -88,9 +141,21 @@ If a commercial relationship exists (affiliate, introducing broker, sponsorship)
 
 > This material is published by THE MARKET DOCTRINE for educational and informational purposes only. It is not financial advice, an investment recommendation or an offer to buy or sell any instrument. Trading leveraged products carries a high level of risk and may not be suitable for everyone. Past performance is not indicative of future results. You are responsible for your own decisions.
 
-> Note: these disclaimers are a baseline, not legal advice. Have them reviewed against the rules of each market the brand operates in.
+**Commercial disclosure — short (promotional captions):**
 
-## 9. Naming
+> Disclosure: The Market Doctrine is an Introducing Broker and may be paid by the broker if you open an account through our link. Using it is optional. Not financial advice. Trading involves risk of loss.
+
+**Commercial disclosure — long (promotional long-form, landing text, WhatsApp broadcasts):**
+
+> The Market Doctrine operates an Introducing Broker business. If you open a trading account through our referral, we may receive compensation from the broker, [describe how — TBD]. This is a commercial relationship and we are not a neutral party when we mention this broker. Opening an account through us is entirely voluntary and our educational content is available regardless. This is not financial advice. Trading leveraged products carries a high risk of loss and may not be suitable for you.
+
+**Profile / bio line:**
+
+> Research and education. We also operate an Introducing Broker business — commercial relationships disclosed.
+
+> Note: all wording above is a baseline draft, not legal advice, and is **`[COMPLIANCE REVIEW REQUIRED]`** per section 8.2 before first use in each market.
+
+## 10. Naming
 
 - Full name: **THE MARKET DOCTRINE** (capitals in headers and logo use).
 - In body text: **The Market Doctrine**.

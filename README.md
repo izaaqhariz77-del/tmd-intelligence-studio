@@ -2,7 +2,17 @@
 
 The Market Doctrine — AI-powered research and content production workspace.
 
-THE MARKET DOCTRINE is an independent financial research, trading education and media brand. This repository is its working library: brand rules, research notes, content drafts, campaign briefs and AI generation prompts, all in plain Markdown so it can be read and edited from a phone.
+THE MARKET DOCTRINE is an independent financial research and trading education media brand that also operates as a transparently disclosed acquisition channel for its Introducing Broker business. It is not a pure media company.
+
+Three pillars:
+
+1. Independent financial research and market intelligence.
+2. Trading education and methodology.
+3. Transparent, voluntary Introducing Broker acquisition.
+
+Positioning is research-first and education-first, never aggressive broker promotion.
+
+This repository is its working library: brand rules, research notes, content drafts, campaign briefs and AI generation prompts, all in plain Markdown so it can be read and edited from a phone.
 
 ## Folder structure
 
@@ -60,8 +70,12 @@ Lowercase, hyphens, date first so files sort correctly.
 - No guaranteed returns, exaggerated trading claims or fake financial authority.
 - Facts are sourced. Opinions are labelled. Market views include an invalidation.
 - Every published piece carries a disclaimer.
+- Broker referral and commercial relationships are disclosed in the content itself, beside the CTA.
+- TMD is never described as independent or neutral when a commercial relationship is being discussed.
+- Educational and promotional content are kept distinct. A referral CTA makes the piece promotional.
+- Jurisdiction-specific compliance wording is flagged `[COMPLIANCE REVIEW REQUIRED]` and reviewed before publication.
 
-Full detail: `BRAND/brand-identity.md` → Claims policy.
+Full detail: `BRAND/brand-identity.md` → Claims policy and Commercial disclosure policy.
 
 ## Working from mobile
 
@@ -69,16 +83,32 @@ Full detail: `BRAND/brand-identity.md` → Claims policy.
 - Templates use short tables and checklists that render on small screens.
 - No build step, no dependencies, no paid APIs.
 
-## Unresolved decisions
+## Decisions
 
+### Resolved
+
+- [x] Commercial model — media brand plus transparently disclosed Introducing Broker acquisition channel; three pillars; research-first and education-first (decided 2026-11-14).
+- [x] Disclosure principles — disclose in content, no "independent" framing around commercial relationships, educational and promotional kept distinct, jurisdiction wording reviewed before publication.
+
+### Unresolved
+
+Blocking promotional content:
+
+- [ ] Record partner broker name(s), regulator(s) and licence numbers in the verified facts register.
+- [ ] Record how TMD is compensated, so the long disclosure can state it.
+- [ ] Define target jurisdictions and confirm the broker may accept clients there.
+- [ ] Compliance review of all disclaimer and disclosure wording per jurisdiction.
+- [ ] Check platform financial-promotion rules for each channel.
+- [ ] Confirm the promotional content ratio (proposed: no more than 1 in 10).
+
+General:
+
+- [ ] Complete the rest of the verified facts register (entity, regulatory status, founder bio).
+- [ ] Define primary audience and languages.
+- [ ] Define instruments covered.
 - [ ] Lock final colour hex values (current values in `BRAND/visual-guidelines.md` are proposals).
 - [ ] Lock typefaces (current choices are free-font proposals).
 - [ ] Logo / wordmark files — create and add.
-- [ ] Complete the verified facts register in `BRAND/brand-identity.md` (entity, regulatory status, founder bio).
-- [ ] Define primary audience, market and languages.
-- [ ] Define instruments covered.
-- [ ] Legal review of disclaimers for each target market.
-- [ ] Commercial model and any disclosures required (affiliate, IB, sponsorship).
 - [ ] Approved research data sources.
 
 ## Status

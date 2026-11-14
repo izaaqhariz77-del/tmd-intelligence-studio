@@ -12,6 +12,8 @@
 **Source research:** `RESEARCH/daily-market-research/YYYY-MM-DD-market-research.md`
 **Campaign (if any):** 
 **Status:** Draft / Reviewed / Scheduled / Published
+**Class:** Educational / Promotional (mentions a broker, referral link or account opening = Promotional)
+**Compliance review (promotional only):** Not needed / Required / Passed on YYYY-MM-DD
 
 ## Core idea (one sentence)
 
@@ -110,6 +112,8 @@ Educational only. Not financial advice. Trading involves risk.
 - [ ] No generic AI phrasing (see `BRAND/tone-of-voice.md`)
 - [ ] Visuals follow `BRAND/visual-guidelines.md`
 - [ ] Disclaimer on every channel version
+- [ ] Educational: no broker mention or referral CTA
+- [ ] Promotional: commercial disclosure beside the CTA, no "independent" wording, compliance review passed
 
 ## After publishing
 

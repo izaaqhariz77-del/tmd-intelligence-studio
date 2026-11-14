@@ -46,7 +46,10 @@ One measurable objective:
 
 - CTA: 
 - Destination (link, channel, form): 
-- Is there a commercial relationship to disclose? Yes / No — details: 
+- Campaign class: Educational / Promotional (any broker referral CTA = Promotional)
+- Commercial relationship to disclose: Yes / No — details: 
+- Target jurisdiction(s): 
+- Compliance review of wording: Not needed / Required / Passed on YYYY-MM-DD
 
 ## 5. Channels and cadence
 
@@ -85,7 +88,10 @@ One measurable objective:
 - [ ] No invented history, credentials or regulatory status
 - [ ] No fabricated testimonials or results
 - [ ] No fake scarcity or urgency
-- [ ] Commercial relationships disclosed
+- [ ] Commercial relationships disclosed beside the CTA, not only in bio
+- [ ] No "independent" or "unbiased" wording in promotional pieces
+- [ ] Educational and promotional pieces kept separate in the content plan
+- [ ] Jurisdiction-specific wording reviewed before publication
 - [ ] Disclaimer on every piece
 
 ## 10. Risks
