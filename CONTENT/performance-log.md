@@ -21,7 +21,7 @@ Do not record or quote numbers you cannot see on the platform.
 
 | Date posted | Channel | Piece (file) | Class | Views 24h | Likes 24h | Replies 24h | Shares/saves 24h | Views 7d | Likes 7d | Replies 7d | Shares/saves 7d | Follows | Link | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| | Threads | `threads/2026-11-14-gold-fell-on-hot-inflation.md` | Educational | | | | | | | | | | | Not yet posted |
+| 2026-11-14 10:17 UTC | Threads | `threads/2026-11-14-gold-fell-on-hot-inflation.md` | Educational | | | | | | | | | | https://www.threads.com/@themarketdoctrine88/post/Dft-H76joem | 4-post thread, published via Zernio. Record 24h numbers on 15 Nov, 7d on 21 Nov. |
 | | Instagram | `instagram/2026-11-14-gold-fell-on-hot-inflation.md` | Educational | | | | | | | | | | | Not yet posted |
 | | TikTok | `tiktok/2026-11-14-gold-fell-on-hot-inflation.md` | Educational | | | | | | | | | | | Not yet recorded or posted |
 | | WhatsApp | `whatsapp/2026-11-14-gold-fell-on-hot-inflation.md` | Educational | | | | | | | | | | | Not yet sent |
