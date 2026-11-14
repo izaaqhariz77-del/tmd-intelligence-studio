@@ -76,7 +76,7 @@ Only facts listed here may be stated publicly about the brand. If it is not in t
 | Audience size / client numbers | _Not recorded_ | | |
 | Partnerships / affiliations | _Not recorded_ | | |
 | Business model: media brand + IB acquisition channel | Confirmed by owner | Owner decision | 2026-11-14 |
-| Partner broker name(s) | _Not recorded_ | | |
+| Partner broker name(s) | Versus Trade (exact legal entity name to be confirmed) | Owner statement | 2026-11-14 |
 | Partner broker regulator(s) and licence numbers | _Not recorded_ | | |
 | How TMD is compensated (e.g. spread/commission share) | _Not recorded_ | | |
 | Jurisdictions where referrals are accepted / excluded | _Not recorded_ | | |

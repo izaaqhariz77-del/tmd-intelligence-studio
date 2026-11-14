@@ -94,7 +94,8 @@ Full detail: `BRAND/brand-identity.md` → Claims policy and Commercial disclosu
 
 Blocking promotional content:
 
-- [ ] Record partner broker name(s), regulator(s) and licence numbers in the verified facts register.
+- [x] Partner broker name recorded: Versus Trade (2026-11-14).
+- [ ] Record the broker's exact legal entity, regulator(s) and licence numbers in the verified facts register.
 - [ ] Record how TMD is compensated, so the long disclosure can state it.
 - [ ] Define target jurisdictions and confirm the broker may accept clients there.
 - [ ] Compliance review of all disclaimer and disclosure wording per jurisdiction.
