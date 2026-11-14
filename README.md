@@ -98,6 +98,8 @@ Full detail: `BRAND/brand-identity.md` → Claims policy and Commercial disclosu
 - [x] Commercial model — media brand plus transparently disclosed Introducing Broker acquisition channel; three pillars; research-first and education-first (decided 2026-11-14).
 - [x] Disclosure principles — disclose in content, no "independent" framing around commercial relationships, educational and promotional kept distinct, jurisdiction wording reviewed before publication.
 
+- [x] Launch timing — the institutional, English-language TMD described in `BRAND/` launches **after the current campaign ends on 29 December 2026**. Until then the Threads account runs the existing "60 Rules" campaign in Manglish and no institutional content is posted there (decided 2026-11-14).
+
 ### Unresolved
 
 Blocking promotional content:
@@ -124,5 +126,10 @@ General:
 
 Phase 1 — foundational structure: complete.
 Phase 2 — first content cycle: one research note and one educational content pack drafted (2026-11-14). Drafts only; nothing published.
+
+Phase 3 — publish and measure: one English thread published on Threads (2026-11-14) before the live campaign was checked. Performance log added.
+Phase 4 — weekly rhythm: template and one week drafted, then **put on hold**. See below.
+
+**On hold until after 29 December 2026.** The Threads account `themarketdoctrine88` is running the owner's "60 Rules" campaign (Manglish, three posts a day, free Sunday webinar). Institutional TMD content is not to be posted to that account until the campaign ends. Research notes can still be written and used as webinar material.
 
 No website, no automation, no dependencies yet.

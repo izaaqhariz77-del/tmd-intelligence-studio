@@ -26,6 +26,18 @@ Do not record or quote numbers you cannot see on the platform.
 | | TikTok | `tiktok/2026-11-14-gold-fell-on-hot-inflation.md` | Educational | | | | | | | | | | | Not yet recorded or posted |
 | | WhatsApp | `whatsapp/2026-11-14-gold-fell-on-hot-inflation.md` | Educational | | | | | | | | | | | Not yet sent |
 
+## Baseline from the live campaign (checked 2026-11-14)
+
+The Threads account already had 52 posts from the owner's "60 Rules" campaign (Manglish). From the 25 most recent, as reported by Zernio analytics:
+
+- Rule posts (midday slot): roughly 130–550 views, most between 200 and 550.
+- Morning hook posts: roughly 90–670 views.
+- Evening posts: roughly 45–350 views.
+
+The English gold thread (row 1) was posted into this feed before the campaign was checked. Compare its 24-hour views against these ranges. It is one post, so treat the comparison as an indication only.
+
+**No further institutional content on this account until after 29 December 2026.**
+
 ## Distribution setup (as of 2026-11-14)
 
 | Channel | Connected to Zernio | How it gets posted |

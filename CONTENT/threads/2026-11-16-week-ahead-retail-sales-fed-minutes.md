@@ -3,7 +3,7 @@
 **Date:** For posting Sunday 15 or Monday 16 November 2026
 **Source research:** `RESEARCH/daily-market-research/2026-11-16-market-research.md`
 **Campaign:** None
-**Status:** Draft — owner to verify event times before posting
+**Status:** HELD — not to be published. Institutional content is on hold until after 29 December 2026. Kept as a sample; the content will be out of date by then.
 **Class:** Educational
 **Compliance review:** Not needed (no broker mention, no referral CTA)
 

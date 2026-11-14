@@ -57,9 +57,9 @@ Fill in as the audience is validated. Working assumption:
 
 | Question | Answer (update when known) |
 |---|---|
-| Primary market / country | _TBD_ |
-| Primary language(s) | _TBD_ |
-| Core instruments covered | _TBD_ |
+| Primary market / country | Malaysia — observed from the live Threads campaign audience, 2026-11-14. Confirm for the institutional launch. |
+| Primary language(s) | Current campaign: Manglish. Institutional launch (after 29 Dec 2026): English. |
+| Core instruments covered | Gold (XAU/USD) is the focus of the live campaign. Not yet confirmed as the only instrument. |
 | Experience level we write for | _TBD_ |
 
 ## 6. Verified facts register
