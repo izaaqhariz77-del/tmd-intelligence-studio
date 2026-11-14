@@ -19,7 +19,7 @@ Rule #N falls on 31 October + (N − 1) days, so Rule #60 lands on 29 December 2
 
 These rules were drafted to continue the series (Rules #9–#14 covered risk; this block covers execution). They are standard practice, but the specifics are the drafter's, not confirmed against the owner's own playbook:
 
-- **Rule #16** says "Aku guna M15" for confirmation (taken from the 4 Nov post on H4 → M15 → M1).
+- **Rule #16** says "Aku guna M5" for entry confirmation — confirmed by owner on 2026-11-14 (originally drafted as M15).
 - **Rule #18** sets a minimum of 2R.
 - **Rule #20** allows adding to a position only when in profit, with the first stop at break-even and a new setup.
 - **Rule #22** ties break-even to new structure.
@@ -81,7 +81,7 @@ Tunggu candle close. Wick bukan confirmation.
 Selagi candle belum close, breakout tu belum jadi apa-apa. Dia boleh patah balik bila-bila.
 
 Cara guna:
-• Pilih timeframe confirmation kau. Aku guna M15.
+• Pilih timeframe confirmation kau. Aku guna M5.
 • Close kat luar level = ada breakout.
 • Cucuk je, close balik dalam = takde apa jadi. Tunggu.
 
