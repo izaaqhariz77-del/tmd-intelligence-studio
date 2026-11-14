@@ -11,7 +11,7 @@
 
 | Slide | Text on slide | Visual note |
 |---|---|---|
-| 1 | **Inflation ran hot. Gold fell 4.5%.** Why? | Background image from `HIGGSFIELD/image-prompts/gold-bar-low-key.md`. Headline serif, ivory. "4.5%" in gold. |
+| 1 | **Inflation ran hot. Gold fell 4.5%.** Why? | Text only on black, no photo. Headline serif in warm ivory, left-aligned, generous margins. "4.5%" in champagne gold (the only gold element). Thin graphite rule above the footer. |
 | 2 | Gold is often called an inflation hedge. This week, US inflation beat expectations and gold had its worst week since June. | Charcoal panel, text only. |
 | 3 | The market wasn't trading inflation. It was trading the Fed's response to it. | Text only. This is the key line; give it space. |
 | 4 | **The chain** — Core CPI 0.3% vs 0.2% expected → December rate hike priced in → 2-year yield up ~35 bps, 10-year above 5% → Dollar at highest since April 2025 | Four stacked lines joined by a thin graphite rule. Data in mono type. |

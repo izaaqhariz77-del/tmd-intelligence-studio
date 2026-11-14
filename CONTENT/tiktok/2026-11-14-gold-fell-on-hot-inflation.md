@@ -11,7 +11,7 @@
 
 | Time | Spoken line | On-screen text | Visual |
 |---|---|---|---|
-| 0–2s | "Inflation came in hot this week. Gold dropped four and a half percent." | Hot inflation. Gold −4.5%. | Talking head, low-key lighting, or slow push-in on gold bar image. |
+| 0–2s | "Inflation came in hot this week. Gold dropped four and a half percent." | Hot inflation. Gold −4.5%. | Talking head, low-key lighting. No stock or generated imagery; if not on camera, use an ivory-on-black text card. |
 | 2–10s | "Sounds backwards, right? Gold is supposed to be the inflation hedge. But the market wasn't trading inflation. It was trading what the Fed does next." | Not inflation. The Fed's response. | Hold on speaker. |
 | 10–24s | "Core CPI beat expectations. So markets priced in a rate hike for December. Yields jumped, the ten-year went above five percent, and the dollar hit its highest since April last year. Gold pays you nothing to hold it. When bonds pay more, gold gets harder to justify." | CPI beat → hike priced → yields up → dollar up → gold down | Text builds line by line. |
 | 24–31s | "Next week, watch retail sales on Tuesday and the Fed minutes on Wednesday. For us, gold stays under pressure below about thirty-nine hundred. Above that, we're wrong." | Tue: Retail sales. Wed: Fed minutes. ~$3,900 | Simple text card. |
