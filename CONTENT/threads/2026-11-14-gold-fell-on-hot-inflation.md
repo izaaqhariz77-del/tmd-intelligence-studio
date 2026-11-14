@@ -3,7 +3,7 @@
 **Date:** 2026-11-14
 **Source research:** `RESEARCH/daily-market-research/2026-11-14-market-research.md`
 **Campaign:** None
-**Status:** Draft — owner to verify figures before posting
+**Status:** Published 2026-11-14 10:17 UTC — figures confirmed by owner before posting
 **Class:** Educational
 **Compliance review:** Not needed (no broker mention, no referral CTA)
 
@@ -57,7 +57,7 @@
 
 ## Pre-publish check
 
-- [ ] Figures re-checked against own chart and the research note
+- [x] Figures re-checked against own chart and the research note (owner, 2026-11-14)
 - [x] Opinion labelled ("on our read") with invalidation
 - [x] No guaranteed returns, invented credentials or fake urgency
 - [x] No broker mention or referral CTA
@@ -67,4 +67,4 @@
 
 | Posted (date/time) | Link | Notes on performance |
 |---|---|---|
-| | | |
+| 2026-11-14 10:17 UTC | https://www.threads.com/@themarketdoctrine88/post/Dft-H76joem | See `CONTENT/performance-log.md` |
