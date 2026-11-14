@@ -6,7 +6,8 @@
 **Class:** Educational
 **Compliance review:** Not needed (no broker mention, no referral CTA)
 **Format:** Carousel, 7 slides, 1080 × 1350
-**Canva design:** https://canva.link/pu5gdgrivkjfr5a (generated 2026-11-14; wording confirmed, visual styling not yet checked by owner)
+**Canva design (use this one):** https://www.canva.com/d/5NvRMjuinIEKt1i — 1080 × 1350, layout checked page by page on 2026-11-14
+**Earlier 1080 × 1440 version (superseded):** https://canva.link/pu5gdgrivkjfr5a
 
 ## Slides
 
