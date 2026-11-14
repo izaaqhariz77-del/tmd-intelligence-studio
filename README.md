@@ -114,4 +114,7 @@ General:
 
 ## Status
 
-Phase 1 — foundational structure. No website, no automation, no dependencies yet.
+Phase 1 — foundational structure: complete.
+Phase 2 — first content cycle: one research note and one educational content pack drafted (2026-11-14). Drafts only; nothing published.
+
+No website, no automation, no dependencies yet.
