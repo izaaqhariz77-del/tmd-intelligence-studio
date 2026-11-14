@@ -30,7 +30,9 @@ tmd-intelligence-studio/
 │   ├── threads/
 │   ├── instagram/
 │   ├── tiktok/
-│   └── whatsapp/
+│   ├── whatsapp/
+│   ├── weekly-calendar/         One plan per week
+│   └── performance-log.md       Results per published piece
 ├── CAMPAIGNS/                   One brief per campaign
 ├── HIGGSFIELD/
 │   ├── image-prompts/           Saved image prompts that work
@@ -38,7 +40,8 @@ tmd-intelligence-studio/
 └── TEMPLATES/
     ├── market-research-template.md
     ├── daily-content-template.md
-    └── campaign-brief-template.md
+    ├── campaign-brief-template.md
+    └── weekly-calendar-template.md
 ```
 
 ## Daily workflow
@@ -49,6 +52,10 @@ tmd-intelligence-studio/
 4. **Visuals** — write or reuse prompts in `HIGGSFIELD/`, following `BRAND/visual-guidelines.md`.
 5. **Check** — run the pre-publish checklist in `BRAND/tone-of-voice.md`.
 6. **Publish and log** — record links and performance notes in the content file.
+
+## Weekly rhythm
+
+Plan each week on the weekend with `TEMPLATES/weekly-calendar-template.md`. Four standing slots: week ahead, event reaction, mid-week lesson, week in review. Any view published with an invalidation is followed up in the week in review.
 
 For multi-day pushes, start with `TEMPLATES/campaign-brief-template.md` in `CAMPAIGNS/`.
 
@@ -61,6 +68,7 @@ Lowercase, hyphens, date first so files sort correctly.
 | Daily research | `YYYY-MM-DD-market-research.md` | `2026-01-15-market-research.md` |
 | Macro library | `topic-slug.md` | `us-interest-rates.md` |
 | Content | `YYYY-MM-DD-topic-slug.md` | `2026-01-15-gold-rejects-resistance.md` |
+| Weekly calendar | `YYYY-MM-DD-week.md` (Monday's date) | `2026-11-16-week.md` |
 | Campaign | `YYYY-MM-campaign-name.md` | `2026-02-risk-management-series.md` |
 | Higgsfield prompt | `subject-slug.md` | `trading-desk-at-dusk.md` |
 
