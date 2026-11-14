@@ -2,7 +2,7 @@
 
 **Use:** carousel cover / video background for gold-related macro pieces
 **First used:** `CONTENT/instagram/2026-11-14-gold-fell-on-hot-inflation.md`
-**Status:** Written, not yet generated or tested. No credits spent.
+**Status:** Written, not yet generated. Attempt on 2026-11-14 was blocked: the Higgsfield account is on the free plan with 0 credits (model `gpt_image_2_6`, quoted 0.25 credits, requires Basic plan or higher). No credits spent.
 **Aspect ratio:** 4:5 (1080 × 1350) for Instagram; regenerate at 9:16 for TikTok
 
 ## Prompt
