@@ -26,6 +26,8 @@ These rules were drafted to continue the series (Rules #9–#14 covered risk; th
 - **Tue 17 Nov evening** calls US retail sales "news merah" (9:30pm Malaysia).
 - **Wed 18 Nov evening** says FOMC minutes are at 3am Malaysia time (Thursday).
 
+**Changed 2026-11-15:** the owner said his system has no 1% risk rule, so the "1%" references were removed from Rules #19 and #20 before they went out.
+
 To change or remove any post before it goes out, edit it in Zernio or ask in session.
 
 ## Next refill
@@ -245,7 +247,7 @@ SL boleh gerak satu arah je: ke arah profit.
 Lepas entry, SL tak boleh dijauhkan. Tak kira apa alasan.
 
 Kenapa:
-• Kau dah kira lot ikut SL asal. Tarik SL, risk kau dah bukan 1% lagi.
+• Kau dah kira lot ikut SL asal. Tarik SL, risk kau dah bukan macam yang kau plan.
 • Level yang kau pilih tu tempat idea kau salah. Harga sampai situ, maksudnya kau salah. Terima.
 
 Kena SL tu bukan gagal. Tu sistem tengah jalan macam yang kau plan.
@@ -303,7 +305,7 @@ Satu setup, satu entry. Jangan tambah kat trade yang tengah rugi.
 Tambah position masa merah = naikkan lot kat idea yang tengah terbukti salah.
 
 Rule dia:
-• Satu setup, satu risk. 1%.
+• Satu setup, satu risk. Yang kau dah tetapkan sebelum entry.
 • Harga lawan kau? SL yang jawab. Bukan entry kedua.
 • Nak tambah? Hanya bila trade dah untung, SL pertama dah kat BE, dan ada setup baru.
 
