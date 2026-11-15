@@ -3,7 +3,7 @@
 **Campaign name:** Coaching 1-to-1 (kawasan berdekatan)
 **Owner:** Hariz
 **Dates:** start to be confirmed → 29 December 2026 (runs alongside the 60 Rules / Sunday webinar campaign)
-**Status:** Live. Posts A and C scheduled on the owner's go-ahead (2026-11-16). B and D held for the following week.
+**Status:** Live. All four posts scheduled on the owner's go-ahead: A Mon 16 Nov, C Fri 20 Nov, B Mon 23 Nov, D Fri 27 Nov, all 9:00pm Malaysia time.
 **Class:** Promotional. Coaching clients must open a trading account through the owner, who is paid by the broker as an Introducing Broker. Every post carries that disclosure.
 
 ## 1. Objective
@@ -114,7 +114,7 @@ Sentul, Wangsa Maju, Melawati. RM500 sebulan, 4 sesi. Syarat: buka akaun trading
 WhatsApp aku (link kat bio), type COACHING.
 ```
 
-### B — Akaun kecil ($150) · not scheduled, for the following week
+### B — Akaun kecil ($150) · SCHEDULED Mon 23 Nov 9:00pm
 
 500 characters
 
@@ -132,7 +132,7 @@ Coaching 1-to-1, Sentul, Wangsa Maju, Melawati. Syarat: buka akaun trading melal
 WhatsApp (link kat bio), type COACHING.
 ```
 
-### D — Apa jadi dalam sesi · not scheduled; session flow is the drafter's, owner to correct
+### D — Apa jadi dalam sesi · SCHEDULED Fri 27 Nov 9:00pm; session flow is the drafter's, owner to correct before it goes out
 
 499 characters
 
