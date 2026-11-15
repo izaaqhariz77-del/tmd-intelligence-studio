@@ -3,8 +3,8 @@
 **Campaign name:** Coaching 1-to-1 (kawasan berdekatan)
 **Owner:** Hariz
 **Dates:** start to be confirmed → 29 December 2026 (runs alongside the 60 Rules / Sunday webinar campaign)
-**Status:** Posts filled in with the owner's facts. Not scheduled; awaiting the owner's go-ahead.
-**Class:** Paid service offer (RM500). Becomes promotional under the disclosure policy only if tied to opening a broker account.
+**Status:** Live. Posts A and C scheduled on the owner's go-ahead (2026-11-16). B and D held for the following week.
+**Class:** Promotional. Coaching clients must open a trading account through the owner, who is paid by the broker as an Introducing Broker. Every post carries that disclosure.
 
 ## 1. Objective
 
@@ -23,16 +23,16 @@ A separate keyword (COACHING, not DOCTRINE) keeps these leads countable apart fr
 | # | Question | Answer |
 |---|---|---|
 | 1 | Areas | Sentul, Wangsa Maju, Melawati |
-| 2 | Terms | RM500 for 4 face-to-face sessions in a month, followed by weekly online classes for clients who still need help after the 4 sessions |
+| 2 | Terms | RM500 for 4 face-to-face sessions in a month. Weekly online classes afterwards are charged separately. Clients must open a trading account through the owner (confirmed 2026-11-16). |
 | 3 | The $150 figure | The minimum capital the owner considers safe to start trading. The owner's system does **not** use a 1% risk rule. |
 | 4 | Track record | More than 15 people coached face to face. Feedback exists; the files have not reached this workspace yet. |
 
 ### Still open
 
-- **How the owner's system sizes risk.** The earlier draft of post B used 1% risk maths; that has been removed. Published Rules #9 and #13 (from the earlier batch) do state 1%. The owner should say whether those stand.
-- **Whether the weekly online classes are included in the RM500** or charged separately. The posts say only that they follow the 4 sessions.
+- **How the owner's system sizes risk.** Published Rules #9 and #13 (from the earlier batch) state 1%; the owner says his system has no 1% rule.
 - **Feedback files and consent.** Needed before any testimonial or the word "proven" is used.
-- **Whether coaching clients are also asked to open a broker account through the owner.** If yes, the disclosure in section 5 applies.
+- **Price of the weekly online classes.** Posts say only that they are charged separately.
+- **Compliance.** This is the first promotional content under `BRAND/brand-identity.md` section 8. The broker's legal entity, regulator and accepted jurisdictions are still not recorded, and the wording has not had a compliance review. The owner chose to proceed; see section 5.
 
 ## 3. Claims: what the posts say and do not say
 
@@ -54,66 +54,50 @@ Keep three posts a day. Do not add a fourth.
 
 Suggested for the current queue: replace Monday 16 Nov (entry sniper) and Friday 20 Nov (screenshot profit), or start the following week.
 
-## 5. Disclosure (required if coaching is tied to a broker account)
+## 5. Disclosure and compliance
 
-If the coaching is free for people who open an account through the owner, the post or the first WhatsApp reply must say so plainly. Suggested wording:
+Every post states the condition and the commercial relationship in the post itself:
 
 ```
-Full disclosure: aku Introducing Broker. Kalau kau buka akaun trading melalui aku, broker bayar aku bila kau trade. Coaching ni sebahagian dari servis aku untuk client.
+Syarat: buka akaun trading melalui aku. Aku IB, broker bayar aku bila kau trade.
 ```
 
-Suggested `[SYARAT]` lines:
+The first WhatsApp reply to a COACHING lead should repeat this and name the broker.
 
-- Tied to an account: `Free untuk client yang buka akaun melalui aku. Aku IB, broker bayar aku bila kau trade.`
-- Paid: `RM__ satu sesi.`
-- Free for anyone: `Free. Takde syarat buka akaun.`
+**Not yet done, and the owner's responsibility:**
 
-Note: `BRAND/brand-identity.md` section 8.1 says education is never gated behind the referral. The free daily rules, PDF and webinar satisfy that. One-to-one coaching as a client service is a separate commercial offer; if the owner confirms that model, that line in the policy should be reworded to say so.
+- `BRAND/brand-identity.md` section 8.2 sets a review gate for promotional content: target country identified, broker permitted to accept clients there, required wording confirmed by a qualified reviewer. None of this has been completed. The posts were scheduled on the owner's instruction on 2026-11-16.
+- Whether the broker and the Introducing Broker activity are permitted for Malaysian residents has not been checked by anyone in this workspace. The owner should confirm this with the broker and, if in doubt, against the Securities Commission Malaysia's published lists.
+- Section 8.1 rule 3 of the brand policy says education is never gated behind the referral. The daily rules, PDF and webinar remain free. Coaching is a paid client service with an account condition; the policy line should be reworded to reflect that if the owner agrees.
 
 ## 6. Posts
 
 All under 500 characters.
 
-### A — Pengumuman
+### A — Pengumuman · SCHEDULED Mon 16 Nov 9:00pm (replaces the "entry sniper" post)
 
-469 characters
+476 characters
 
 ```
 Ada benda yang webinar tak boleh buat: duduk sebelah kau, tengok kau tekan entry.
 
-Aku buka coaching 1-to-1, face to face. Sentul, Wangsa Maju, Melawati je, sebab aku sendiri yang datang.
+Aku buka coaching 1-to-1, face to face. Sentul, Wangsa Maju, Melawati je.
 
 Depan chart kau sendiri:
 • Cara guna lot untuk akaun kecil
 • Disiplin: bila trade, bila stop
 • Cari target sebelum entry
 
-RM500 sebulan, 4 sesi. Habis 4 sesi masih tak faham? Sambung kelas online mingguan.
+RM500 sebulan, 4 sesi. Lepas tu ada kelas online mingguan, caj asing.
 
-Slot terhad sebab aku sorang. WhatsApp aku (link kat bio), type COACHING.
+Syarat: buka akaun trading melalui aku. Aku IB, broker bayar aku bila kau trade.
+
+WhatsApp aku (link kat bio), type COACHING.
 ```
 
-### B — Akaun kecil ($150)
+### C — Untuk siapa · SCHEDULED Fri 20 Nov 9:00pm (replaces the "screenshot profit" post)
 
-499 characters
-
-```
-"Modal kecil tak boleh trade gold."
-
-Boleh. Tapi ada lantai dia.
-
-$150. Itu modal minimum yang aku syorkan untuk mula.
-
-Bukan sebab $150 tu selamat dari rugi. Sebab bawah tu, lot paling kecil pun dah terlalu besar untuk akaun kau. Satu dua trade salah, habis.
-
-Aku tak janji untung. Yang aku ajar: cara guna lot dan disiplin untuk akaun kecil. Tujuan dia satu: kau berhenti top-up sebab blow.
-
-Coaching 1-to-1, face to face. Sentul, Wangsa Maju, Melawati. WhatsApp aku (link kat bio), type COACHING.
-```
-
-### C — Untuk siapa
-
-442 characters
+486 characters
 
 ```
 Aku dah coach lebih 15 orang face to face. Masalah yang selalu aku jumpa:
@@ -122,18 +106,36 @@ Aku dah coach lebih 15 orang face to face. Masalah yang selalu aku jumpa:
 • Faham teori, tapi depan chart lain jadinya
 • Lot ikut feeling
 
-Coaching ni bukan untuk kau kalau kau nak signal, nak aku trade-kan, atau cari untung cepat.
+Bukan untuk kau kalau kau nak signal atau untung cepat.
 
 Untuk kau kalau sanggup jumpa, buka chart, kena tegur.
 
-Sentul, Wangsa Maju, Melawati. RM500 sebulan, 4 sesi.
+Sentul, Wangsa Maju, Melawati. RM500 sebulan, 4 sesi. Syarat: buka akaun trading melalui aku. Aku IB, broker bayar aku bila kau trade.
 
 WhatsApp aku (link kat bio), type COACHING.
 ```
 
-### D — Apa jadi dalam sesi
+### B — Akaun kecil ($150) · not scheduled, for the following week
 
-440 characters
+500 characters
+
+```
+"Modal kecil tak boleh trade gold."
+
+Boleh. Tapi ada lantai: $150. Minimum yang aku syorkan untuk mula.
+
+Bukan sebab $150 selamat dari rugi. Sebab bawah tu, lot paling kecil pun dah terlalu besar untuk akaun kau.
+
+Aku tak janji untung. Aku ajar cara guna lot dan disiplin untuk akaun kecil, supaya kau berhenti top-up sebab blow.
+
+Coaching 1-to-1, Sentul, Wangsa Maju, Melawati. Syarat: buka akaun trading melalui aku. Aku IB, broker bayar aku bila kau trade.
+
+WhatsApp (link kat bio), type COACHING.
+```
+
+### D — Apa jadi dalam sesi · not scheduled; session flow is the drafter's, owner to correct
+
+499 characters
 
 ```
 Apa jadi dalam sesi 1-to-1 pertama:
@@ -143,9 +145,11 @@ Apa jadi dalam sesi 1-to-1 pertama:
 3. Kita set rule kau: lot, had harian, had trade.
 4. Kau ambil satu setup depan aku, ikut rule tu.
 
-Balik rumah, kau ada satu muka surat rule. Bukan 10 strategy.
+Balik rumah, kau ada satu muka surat rule.
 
-RM500 sebulan, 4 sesi. Sentul, Wangsa Maju, Melawati. WhatsApp aku (link kat bio), type COACHING.
+RM500 sebulan, 4 sesi. Sentul, Wangsa Maju, Melawati. Syarat: buka akaun trading melalui aku. Aku IB, broker bayar aku bila kau trade.
+
+WhatsApp (link kat bio), type COACHING.
 ```
 
 ## 7. Limits to know about
