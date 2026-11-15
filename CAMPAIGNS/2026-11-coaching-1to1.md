@@ -23,7 +23,7 @@ A separate keyword (COACHING, not DOCTRINE) keeps these leads countable apart fr
 | # | Question | Answer |
 |---|---|---|
 | 1 | Areas | Sentul, Wangsa Maju, Melawati |
-| 2 | Terms | RM500 for 4 face-to-face sessions in a month. Weekly online classes afterwards are charged separately. Clients must open a trading account through the owner (confirmed 2026-11-16). |
+| 2 | Terms | RM500 for 4 face-to-face sessions in a month. Afterwards clients continue with the weekly online class in the community, which is free (corrected by owner 2026-11-16; "asing" meant separate from the package, not a separate charge). Clients must open a trading account through the owner (confirmed 2026-11-16). |
 | 3 | The $150 figure | The minimum capital the owner considers safe to start trading. The owner's system does **not** use a 1% risk rule. |
 | 4 | Track record | More than 15 people coached face to face. Feedback exists; the files have not reached this workspace yet. |
 
@@ -31,7 +31,6 @@ A separate keyword (COACHING, not DOCTRINE) keeps these leads countable apart fr
 
 - **How the owner's system sizes risk.** Published Rules #9 and #13 (from the earlier batch) state 1%; the owner says his system has no 1% rule.
 - **Feedback files and consent.** Needed before any testimonial or the word "proven" is used.
-- **Price of the weekly online classes.** Posts say only that they are charged separately.
 - **Compliance.** This is the first promotional content under `BRAND/brand-identity.md` section 8. The broker's legal entity, regulator and accepted jurisdictions are still not recorded, and the wording has not had a compliance review. The owner chose to proceed; see section 5.
 
 ## 3. Claims: what the posts say and do not say
@@ -76,7 +75,7 @@ All under 500 characters.
 
 ### A — Pengumuman · SCHEDULED Mon 16 Nov 9:00pm (replaces the "entry sniper" post)
 
-476 characters
+491 characters
 
 ```
 Ada benda yang webinar tak boleh buat: duduk sebelah kau, tengok kau tekan entry.
@@ -88,7 +87,7 @@ Depan chart kau sendiri:
 • Disiplin: bila trade, bila stop
 • Cari target sebelum entry
 
-RM500 sebulan, 4 sesi. Lepas tu ada kelas online mingguan, caj asing.
+RM500 sebulan, 4 sesi. Lepas tu sambung kelas online mingguan dalam community. Free.
 
 Syarat: buka akaun trading melalui aku. Aku IB, broker bayar aku bila kau trade.
 
