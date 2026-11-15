@@ -4,7 +4,7 @@
 **Owner:** Hariz
 **Dates:** start to be confirmed → 29 December 2026 (runs alongside the 60 Rules / Sunday webinar campaign)
 **Status:** Live. All four posts scheduled on the owner's go-ahead: A Mon 16 Nov, C Fri 20 Nov, B Mon 23 Nov, D Fri 27 Nov, all 9:00pm Malaysia time.
-**Class:** Promotional. Coaching clients must open a trading account through the owner, who is paid by the broker as an Introducing Broker. Every post carries that disclosure.
+**Class:** Promotional. Coaching clients must open a trading account through the owner, who is paid by the broker as an Introducing Broker. The posts state the account condition but **not** the Introducing Broker relationship: the owner instructed its removal on 2026-11-16.
 
 ## 1. Objective
 
@@ -55,13 +55,15 @@ Suggested for the current queue: replace Monday 16 Nov (entry sniper) and Friday
 
 ## 5. Disclosure and compliance
 
-Every post states the condition and the commercial relationship in the post itself:
+**Owner's decision, 2026-11-16:** the Introducing Broker disclosure line was removed from all four posts before any was published. The posts keep the account condition:
 
 ```
-Syarat: buka akaun trading melalui aku. Aku IB, broker bayar aku bila kau trade.
+Syarat: buka akaun trading melalui aku.
 ```
 
-The first WhatsApp reply to a COACHING lead should repeat this and name the broker.
+This departs from `BRAND/brand-identity.md` section 8, which the owner set on 2026-11-14 and which requires the commercial relationship to be disclosed beside the call to action. The policy document has not been changed; the two now disagree and the owner should decide which stands.
+
+Drafter's recommendation, not adopted: state the relationship in the first WhatsApp reply, before the client pays or opens an account.
 
 **Not yet done, and the owner's responsibility:**
 
@@ -89,7 +91,7 @@ Depan chart kau sendiri:
 
 RM500 sebulan, 4 sesi. Lepas tu sambung kelas online mingguan dalam community. Free.
 
-Syarat: buka akaun trading melalui aku. Aku IB, broker bayar aku bila kau trade.
+Syarat: buka akaun trading melalui aku.
 
 WhatsApp aku (link kat bio), type COACHING.
 ```
@@ -109,7 +111,7 @@ Bukan untuk kau kalau kau nak signal atau untung cepat.
 
 Untuk kau kalau sanggup jumpa, buka chart, kena tegur.
 
-Sentul, Wangsa Maju, Melawati. RM500 sebulan, 4 sesi. Syarat: buka akaun trading melalui aku. Aku IB, broker bayar aku bila kau trade.
+Sentul, Wangsa Maju, Melawati. RM500 sebulan, 4 sesi. Syarat: buka akaun trading melalui aku.
 
 WhatsApp aku (link kat bio), type COACHING.
 ```
@@ -127,7 +129,7 @@ Bukan sebab $150 selamat dari rugi. Sebab bawah tu, lot paling kecil pun dah ter
 
 Aku tak janji untung. Aku ajar cara guna lot dan disiplin untuk akaun kecil, supaya kau berhenti top-up sebab blow.
 
-Coaching 1-to-1, Sentul, Wangsa Maju, Melawati. Syarat: buka akaun trading melalui aku. Aku IB, broker bayar aku bila kau trade.
+Coaching 1-to-1, Sentul, Wangsa Maju, Melawati. Syarat: buka akaun trading melalui aku.
 
 WhatsApp (link kat bio), type COACHING.
 ```
@@ -146,7 +148,7 @@ Apa jadi dalam sesi 1-to-1 pertama:
 
 Balik rumah, kau ada satu muka surat rule.
 
-RM500 sebulan, 4 sesi. Sentul, Wangsa Maju, Melawati. Syarat: buka akaun trading melalui aku. Aku IB, broker bayar aku bila kau trade.
+RM500 sebulan, 4 sesi. Sentul, Wangsa Maju, Melawati. Syarat: buka akaun trading melalui aku.
 
 WhatsApp (link kat bio), type COACHING.
 ```
