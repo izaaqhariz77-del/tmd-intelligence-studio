@@ -1,6 +1,6 @@
 # Campaign Voice — Manglish (60 Rules)
 
-**Version:** 1.0 · 2026-11-18
+**Version:** 1.1 · 2026-11-18 (disclosure decision)
 **Scope:** the 60 Rules campaign on Threads `themarketdoctrine88`, until the campaign ends on 29 Dec 2026. Institutional TMD content follows `BRAND/tone-of-voice.md`; this file does not change it.
 **Basis:** the voice as published on the account between 30 Oct and 18 Nov 2026.
 
@@ -54,12 +54,14 @@
 
 ## Length
 
-500 characters maximum per Threads post, disclaimer included. Published posts mostly run 300 to 470 characters.
+500 characters maximum per Threads post, disclosure included. The disclosure and the blank line before it take 62 characters, leaving 438 for the post itself. Published posts mostly run 300 to 470 characters before the disclosure.
 
-## Disclaimer
+## Disclosure
 
-Draft wording, **not yet approved:**
+On **every** published campaign post, including one-line questions and replies (owner decision, 18 Nov 2026; no exception):
 
 > Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.
 
-The brand rule requires a disclaimer on every published piece. The campaign has run without one so far. The owner decides whether the campaign is an exception.
+- Last line of the post, after a blank line.
+- Provisional wording. It is not proof of regulatory compliance and stays under review.
+- Not for paid offers: coaching posts would need a commercial disclosure. Coaching is on hold.

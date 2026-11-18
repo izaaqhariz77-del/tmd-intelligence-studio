@@ -1,6 +1,6 @@
 # TMD Agent Guardrails
 
-**Version:** 1.0 · 2026-11-18
+**Version:** 1.1 · 2026-11-18 (disclosure decision)
 **Applies to:** every TMD agent and skill. When an agent's own instructions and this file disagree, the stricter rule wins. When unsure, stop and ask the owner.
 
 The brand is exclusively **THE MARKET DOCTRINE (TMD)**. No other brand name appears in any output.
@@ -91,8 +91,10 @@ Keep the two segments separate in content strategy, lead qualification and analy
 ## 8. Disclaimers
 
 - **Institutional English:** use `BRAND/brand-identity.md` §9.
-- **Campaign Manglish (draft wording, not yet approved):** `Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.`
-- The brand rule is that every published piece carries a disclaimer. The live 60 Rules campaign posts currently do not. Agents include the disclaimer in drafts; the owner decides whether the campaign is an exception.
+- **Campaign Manglish (provisional wording):** `Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.`
+- **Every published campaign item carries a disclosure. No exception** (owner decision, 2026-11-18). This includes one-line questions, replies and clarifications. The line counts inside the 500-character limit.
+- The wording is **provisional**. It is not proof of regulatory compliance and stays under review (`BRAND/brand-identity.md` §8.2).
+- "Edukasi je" does not fit a paid offer. Commercial posts (coaching) need their own disclosure, settled in the commercial terms review. Coaching is on hold.
 
 ## 9. Voices
 
@@ -108,7 +110,8 @@ Institutional English content is not posted to the Threads account before the ca
 | Item | Status |
 |---|---|
 | Free DOCTRINE community, PDF, Sunday webinar | Active. No hidden account conditions, no broker solicitation. |
-| Coaching (RM500, face to face) | **On hold** until commercial terms and regulatory permissions are reviewed. No promotion in any form. |
+| Campaign disclosure | On every published item from 2026-11-18. Provisional wording (§8). |
+| Coaching (RM500, face to face) | **On hold** until commercial terms and regulatory permissions are reviewed. No promotion in any form. Drafts stay paused; the $150 minimum was removed from draft B. |
 | Broker referrals / IB | **Blocked** by the gate in §6. |
 | Institutional English on Threads | On hold until after 29 Dec 2026. |
 
