@@ -25,7 +25,7 @@
 | 6 | Sunday webinar, 9pm, inside the community. | Owner | — | — |
 | Exit | "STOP" or "BERHENTI" at any point: Reply 3, then no further contact. | Owner | Confirmation | `withdrawn` → DO NOT CONTACT |
 
-**Changed from the current flow:** the community link no longer depends on answering the questions. The questions help fit education to the person; making them a gate adds friction without changing what anyone receives. Owner's call.
+**Decided by the owner, 18 Nov:** the three questions are optional. The PDF and the community link are sent whether or not the person answers. Public posts must not say the link depends on the answers.
 
 **Never in this journey:** coaching, broker names, account opening, deposits, referral links, questions about money. Questions on those go to the owner personally (see `AGENTS/TMD_PROSPECT_INTELLIGENCE/`).
 
@@ -46,7 +46,7 @@ Terima kasih sebab message. Ni PDF Basic to Advance: [link]
 Nombor kau aku guna untuk hantar PDF dan info community je. Tak share dengan pihak lain. Nak berhenti, type STOP.
 ```
 
-`[COMPLIANCE REVIEW REQUIRED]` for the last paragraph. "Tak share dengan pihak lain" is a promise: confirm it is true, including in any future broker relationship, before using it.
+`[COMPLIANCE REVIEW REQUIRED]` for the last paragraph. "Tak share dengan pihak lain" is a promise: confirm it is true, including in any future broker relationship, before using it. A fuller bilingual notice was proposed on 18 Nov and awaits qualified review; neither version is used before that review.
 
 **Reply 2 — community link**
 
@@ -139,4 +139,4 @@ Baik. Nombor kau dah keluar dari senarai aku. Takkan ada mesej lagi dari aku.
 
 Shared checklist: PASS
 Agent checks: PASS — voluntary, exit on every path, no money questions, no commercial or broker step.
-Needs the owner: whether the community link stays conditional on the questions; review of the privacy wording; confirmation that "Tak share dengan pihak lain" is a promise TMD can keep.
+Needs the owner: qualified review of the privacy wording; confirmation that "Tak share dengan pihak lain" is a promise TMD can keep.

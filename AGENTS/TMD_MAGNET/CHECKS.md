@@ -20,6 +20,7 @@ Run after `AGENTS/_shared/quality-checklist.md`.
 ## Data
 
 - [ ] Questions limited to experience, activity, instruments and main difficulty.
+- [ ] Every question is optional; no resource or link depends on the answers.
 - [ ] No questions about balances, deposits, income, debts, broker accounts or logins.
 - [ ] Field names match `enquiry-schema.md`.
 

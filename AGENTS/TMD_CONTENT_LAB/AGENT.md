@@ -57,7 +57,7 @@ Rule numbers follow the series: Rule #N falls on 31 Oct + (N − 1) days.
 - **"Aku" is the owner.** Never invent the owner's trades, results, history or stories. Use "kau" scenes, or ask the owner for a real example.
 - **Verify everything:** redo calculations, source event times from official publishers, check methodology facts.
 - **Banned:** guarantees, "confirm naik", certainty about outcomes, urgency, fake scarcity, emoji as decoration in the campaign voice, and the patterns in `BRAND/tone-of-voice.md` §5.
-- **Calls to action:** none, or the free community only ("WhatsApp aku (link kat bio), type DOCTRINE."). No coaching, broker, account or deposit calls to action.
+- **Calls to action:** none, or the free community only ("WhatsApp aku (link kat bio), type DOCTRINE."). Never imply the link depends on answering questions. No coaching, broker, account or deposit calls to action.
 - **Disclaimer:** included per `guardrails.md` §8, inside the character count.
 
 ## Visual direction (Instagram and any image)
