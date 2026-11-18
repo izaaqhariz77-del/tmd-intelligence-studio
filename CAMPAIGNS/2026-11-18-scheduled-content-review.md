@@ -174,9 +174,9 @@ Community: WhatsApp aku (link kat bio), type DOCTRINE.
 | 3 | Phase 1 PR from a fresh branch off main, the 8 commits only; show commits and diff; run checks; do not merge | Branch `claude/tmd-phase-1-ai-skills` = `main` + the 8 commits. PR #4 opened: https://github.com/izaaqhariz77-del/tmd-intelligence-studio/pull/4. Checks passed, no conflicts, mergeable. | **Not merged.** Awaiting the owner's approval |
 | 4 | Disclosure on every published campaign item, no exception; wording provisional, not proof of compliance; broker content stays blocked | Disclosure appended to 21 scheduled posts with no other change. Rule #20 (an assistant post due 19 Nov) shortened by three words to fit and kept scheduled. Four posts that needed wording cuts moved to draft for approval. `guardrails.md` §8 and the campaign voice file updated. | Done for all 22 scheduled posts (longest 495 characters). Four posts awaiting approval |
 | 5 | Keep coaching promotion paused; remove the $150 minimum from draft B; do not reschedule | Draft B rewritten without any capital figure (Zernio, still draft). Brief updated. | Done. On hold |
-| 6 | Draft clarifications for the 1% in Rules #9 and #13, and separately for the 4 Nov M1 reference; do not publish | `CONTENT/threads/2026-11-18-clarification-1-percent-rules-9-13.md`; `CONTENT/threads/2026-11-18-clarification-m1-entry-4-nov.md`. Two more published posts mention M1 (6 Nov, 3pm and 9pm). | Awaiting review |
-| 7 | Review the privacy notice; propose a retention schedule with purpose and legal basis; no invented periods | `RESOURCES/2026-11-18-journey-doctrine-privacy-and-retention.md` | Awaiting owner decisions and a qualified reviewer |
-| 8 | Draft Rule #30 onward; keep the 29 Nov CONTENT_LAB example as a draft; no automatic publication | Rules #30–#36 and every slot from 29 Nov to 5 Dec drafted: `CONTENT/threads/2026-11-29-rules-30-36-queue.md`. Nothing scheduled. | Awaiting review |
+| 6 | Draft clarifications for the 1% in Rules #9 and #13, and separately for the 4 Nov M1 reference; do not publish | Two drafts prepared. Two more published posts mention M1 (6 Nov, 3pm and 9pm), so the M1 draft has a version that covers all three. The drafts are not part of PR #4. | Awaiting review |
+| 7 | Review the privacy notice; propose a retention schedule with purpose and legal basis; no invented periods | Gap review of the notice, proposed bilingual notice and retention schedule drafted. Not part of PR #4. | Awaiting owner decisions and a qualified reviewer |
+| 8 | Draft Rule #30 onward; keep the 29 Nov CONTENT_LAB example as a draft; no automatic publication | Rules #30–#36 and every slot from 29 Nov to 5 Dec drafted. Nothing scheduled. Not part of PR #4. | Awaiting review |
 
 ### Disclosure in the scheduled queue
 
@@ -209,12 +209,13 @@ Community edukasi: WhatsApp aku (link kat bio), type DOCTRINE.
 Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.
 ```
 
-### Rule #25 — verification
+### Rule #25 — calculation check
+
+Status: **arithmetic checked; our broker's contract settings not verified.** The post stays a draft until the owner checks MT5 personally (owner decision, 18 Nov; checklist in the last section).
 
 | Item | Finding | Basis |
 |---|---|---|
-| Contract size | 1.00 lot XAUUSD = 100 troy oz, so 0.01 lot = 1 oz | Standard for gold CFDs in published broker specification sheets (e.g. RoboMarkets' XAUUSD card lists 100 oz per lot, 0.01 lot minimum). Varies by broker and account type. |
-| The owner's broker | Not verified: no public specification page found | Owner to check in MT5: Market Watch → XAUUSD → Specification (contract size 100; digits) |
+| Contract size at our broker | **Not verified.** The figures assume 1.00 lot = 100 oz, so 0.01 lot = 1 oz. | Third-party specification sheets commonly list 100 oz per lot. They are not proof of our broker's settings. |
 | Pip convention | Not standardised for gold. Many sources call 0.01 a pip; others 0.10. TMD's published Rule #9 uses 1 pip = $0.10 price move. | Search of broker and education sources, 18 Nov. The post now states the convention. |
 | Formula | Risk ($) = pips × pip size × lot × 100 oz. Same as Rule #9: Lot = Risk ÷ (SL pips × 10). | Rules #9 and #10 |
 
@@ -266,3 +267,58 @@ Changes from the first revised draft: the convention line was added; "kena sekal
 | Disclosure wording: qualified review | Reviewer | Provisional until then |
 | Privacy notice decisions and retention periods | Owner and reviewer | Before the notice is used |
 | The owner's lot-sizing method (how the dollar risk per trade is set) | Owner | Needed for future risk content |
+
+## Owner's third set of decisions — 18 November 2026
+
+| # | Decision | Action taken | Status |
+|---|---|---|---|
+| 1 | PR #4: monitor for comments; do not merge; correct the five outdated files inside PR #4; no second PR for fixes; send the updated summary and full diff; report comments before implementing them | Monitoring switched on. The corrections and today's decisions were committed to the PR #4 branch. Summary and full diff regenerated. No comments or reviews so far. | Not merged. Awaiting the owner's review |
+| 2 | Rule #25 stays a draft until the owner personally checks the XAUUSD contract size in MT5 → Specification. Keep the pip line only if our broker's specification supports the calculation. Third-party specifications are not proof. | Status changed to: arithmetic checked, our broker's settings **not verified**. Checklist below. Zernio draft unchanged. | Blocked on the owner's MT5 check. Slot Tue 24 Nov, 8:30am |
+| 3 | 24 Nov 9pm stays a draft; show the final text and count; schedule only on explicit confirmation | Unchanged: Zernio draft, 496 characters. | Awaiting explicit confirmation |
+| 4 | Prepare the 1% correction and the combined M1 clarification for the 20 and 23 Nov slots; show the exact drafts first; no scheduling | Drafts prepared for Fri 20 Nov 9pm and Mon 23 Nov 9pm. Not created in Zernio. | Awaiting the owner's approval |
+| 5 | The three questions are optional; free resources never depend on the answers; bilingual notice covering rights, contact, processors and purposes; specific retention periods with justification and legal basis for qualified review; nothing published before review | Journey and agent rules updated: questions optional, new hard stop in `AGENTS/_shared/guardrails.md` §2. Bilingual notice and retention periods drafted for review. Three scheduled posts still gate the link (below). | Notice: awaiting qualified review. Scheduled posts: awaiting approval to edit |
+| 6 | Keep Rules #30–#36 and all 29 Nov–5 Dec content as drafts; present the full batch | Kept as drafts. The two drafts that gated the link on the questions were reworded. | Awaiting review |
+| 7 | Broker gate closed; coaching paused; no broker solicitation, account-opening call to action or deposit prompt through any channel | No change | In force |
+
+### Scheduled posts that conflict with decision 5
+
+Scheduled in Zernio, each ends with "Jawab 3 soalan, aku bagi link." (the link depends on answering). Editing a scheduled post is an external action, so none has been changed.
+
+| Post | Proposed change | Characters now → after |
+|---|---|---|
+| Thu 19 Nov, 9pm — community invitation (assistant's post) | "Jawab 3 soalan, aku bagi link." → "Aku hantar link community." | 486 → 482 |
+| Sun 22 Nov, 5pm — webinar post | Same | 290 → 286 |
+| Sat 28 Nov, 9pm — day 30 recap | Same | 495 → 491 |
+
+The 19 Nov post publishes at 9pm Malaysia time unless the edit is approved or the post is paused. The record of that post in `CAMPAIGNS/2026-11-60-rules-queue-14-21-nov.md` is updated once the change is made.
+
+### Rule #25 — the owner's MT5 check
+
+MT5 → Market Watch → right-click the gold symbol you trade → Specification. Note these fields:
+
+| Field | The post as written needs | If different |
+|---|---|---|
+| Contract size | 100 | Risk = pips × 0.10 × lot × contract size. The $4 and $8 change, and so does the post. |
+| Profit currency | USD | The dollar figures need converting. |
+| Volume min / step | 0.01 / 0.01 | "Lot paling kecil, 0.01" changes. |
+| Digits | 2 or 3 | No change to the dollar figures. Only MT5's point count differs: 40 pips = 400 points at 2 digits, 4,000 at 3. |
+| Tick size / tick value, if shown | 0.01 / $1.00 per 1.00 lot | Cross-check: tick value ÷ tick size = contract size. |
+
+The pip line ("1 pip = $0.10") stays only if the contract size is 100 and the profit currency is USD.
+
+### Remaining blockers
+
+| Waiting on | Item | Deadline |
+|---|---|---|
+| Owner | Approve or pause the 19 Nov 9pm post's wording (above) | Before Thu 19 Nov, 9pm |
+| Owner | Approve the 1% correction for Fri 20 Nov 9pm | Before Fri 20 Nov, 9pm |
+| Owner | Approve the M1 clarification for Mon 23 Nov 9pm, and the 22 Nov 5pm wording | Before Sun 22 Nov, 5pm |
+| Owner | MT5 check, then approve Rule #25 | Before Tue 24 Nov, 8:30am |
+| Owner | Explicit confirmation of the 24 Nov 9pm text | Before Tue 24 Nov, 9pm |
+| Owner | Approve the cuts to 25 Nov 9pm, 26 Nov 9pm and Rule #28 | Before each slot |
+| Owner | Review the 29 Nov–5 Dec batch, and the 28 Nov 9pm wording | By Fri 27 Nov |
+| Owner | Review and approve PR #4 | None |
+| Owner and a qualified reviewer | Privacy notice and retention periods; disclosure wording | Before either is used |
+| Owner and a qualified reviewer | Broker gate: entity, regulator, licence, compensation, jurisdictions, compliance review | Gate stays closed until done |
+| Owner and a qualified reviewer | Coaching: commercial terms, permissions, commercial disclosure | Hold stands until done |
+| Owner | How the dollar risk per trade is set (not recorded) | Needed for future risk content |

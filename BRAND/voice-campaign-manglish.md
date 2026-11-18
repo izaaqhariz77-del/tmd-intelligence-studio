@@ -40,7 +40,8 @@
 
 ## Calls to action
 
-- Free community, PDF and webinar: `WhatsApp aku (link kat bio), type DOCTRINE.`
+- Free community, PDF and webinar: `WhatsApp aku (link kat bio), type DOCTRINE.` Optionally: `Aku hantar link community.`
+- Never write that the link depends on answering questions ("Jawab 3 soalan, aku bagi link"). The questions are optional (owner decision, 18 Nov).
 - Coaching (`COACHING`): **on hold** since 18 Nov 2026. Do not use.
 - No broker, account, deposit or referral calls to action (`AGENTS/_shared/guardrails.md` §6).
 

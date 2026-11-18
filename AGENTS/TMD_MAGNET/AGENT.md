@@ -32,6 +32,7 @@
 ## What a journey may ask
 
 - **May ask**, to fit education to the person: how long they have traded, whether they are active now, which instruments, their main difficulty.
+- **Always optional.** The PDF, the community link and the webinar never depend on the answers (owner decision, 2026-11-18).
 - **Must never ask:** account balance, deposit amount, income, debts, broker account details, logins or passwords.
 - **Human-only, and only if the broker gate opens:** age, country of residence and any other regulatory eligibility question.
 

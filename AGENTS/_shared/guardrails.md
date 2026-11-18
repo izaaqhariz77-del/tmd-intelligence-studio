@@ -25,6 +25,7 @@ The brand is exclusively **THE MARKET DOCTRINE (TMD)**. No other brand name appe
 7. **Use losses, debt, distress or urgency to push a conversion**, or encourage larger deposits, topping up, or bigger lots to recover.
 8. **State minimum deposits or capital thresholds** in content (owner decision on Rule #25, 2026-11-18).
 9. **Store personal data in this repository** (see `data-handling.md`).
+10. **Make free education conditional on answering questions.** The PDF, community link and webinar never depend on the answers (owner decision, 2026-11-18).
 
 ## 3. Claims
 
@@ -109,7 +110,7 @@ Institutional English content is not posted to the Threads account before the ca
 
 | Item | Status |
 |---|---|
-| Free DOCTRINE community, PDF, Sunday webinar | Active. No hidden account conditions, no broker solicitation. |
+| Free DOCTRINE community, PDF, Sunday webinar | Active. No hidden account conditions, no broker solicitation. The three questions are optional; nothing depends on the answers. |
 | Campaign disclosure | On every published item from 2026-11-18. Provisional wording (§8). |
 | Coaching (RM500, face to face) | **On hold** until commercial terms and regulatory permissions are reviewed. No promotion in any form. Drafts stay paused; the $150 minimum was removed from draft B. |
 | Broker referrals / IB | **Blocked** by the gate in §6. |

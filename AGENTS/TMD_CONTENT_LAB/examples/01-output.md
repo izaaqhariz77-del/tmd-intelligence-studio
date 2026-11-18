@@ -38,7 +38,7 @@ Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.
 - **Method.** The three lines reuse published rules: the level (Rule #1), M5 close as confirmation (Rule #16), and where the idea is wrong (Rule #15).
 - **Midpoint.** It follows the Day 30 recap of 28 Nov ("Kawal diri dulu, baru kawal trade") with a concrete habit.
 - **Disclosure.** Included. The owner decided on 18 Nov that every published campaign item carries the provisional disclosure, with no exception.
-- **Retained as the Rule #30 draft** on the owner's instruction of 18 Nov. The same text heads the queue in `CONTENT/threads/2026-11-29-rules-30-36-queue.md`.
+- **Retained as the Rule #30 draft** on the owner's instruction of 18 Nov. It heads the draft queue for 29 Nov–5 Dec, which is under review.
 
 ## Checks
 
