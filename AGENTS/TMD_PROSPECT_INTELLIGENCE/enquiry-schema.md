@@ -28,7 +28,7 @@ The structure for organising voluntary enquiries. **Records live only in the own
 | `human_review` | Generated | No · Yes, with reason | |
 | `reviewer` / `review_date` / `decision` | Human only | — | Never filled in by an agent |
 | `status` | Yes | NEW · AWAITING INFO · HUMAN REVIEW · RESPONDED · COMMUNITY JOINED · CLOSED · DO NOT CONTACT | |
-| `retention_until` | Yes | Date | Set by the owner's retention policy (open decision) |
+| `retention_until` | Yes | Date | Set by the owner's retention policy (open decision; proposal in `RESOURCES/2026-11-18-journey-doctrine-privacy-and-retention.md`) |
 
 ## Experience categories
 

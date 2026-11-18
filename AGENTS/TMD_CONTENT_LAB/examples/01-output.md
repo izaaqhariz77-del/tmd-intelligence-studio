@@ -37,10 +37,11 @@ Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.
 - **Sunday timing.** Gold is closed on Sunday, so the post points at Monday's open and the question asks about Monday's plan. The webinar is the same night at 9pm.
 - **Method.** The three lines reuse published rules: the level (Rule #1), M5 close as confirmation (Rule #16), and where the idea is wrong (Rule #15).
 - **Midpoint.** It follows the Day 30 recap of 28 Nov ("Kawal diri dulu, baru kawal trade") with a concrete habit.
-- **Disclaimer.** Included per the brand rule. The live campaign currently runs without one; if the campaign is an exception, remove the last line (the post becomes 429 characters).
+- **Disclosure.** Included. The owner decided on 18 Nov that every published campaign item carries the provisional disclosure, with no exception.
+- **Retained as the Rule #30 draft** on the owner's instruction of 18 Nov. The same text heads the queue in `CONTENT/threads/2026-11-29-rules-30-36-queue.md`.
 
 ## Checks
 
 Shared checklist: PASS
 Agent checks: PASS — 491 characters; M5; no fixed %, thresholds or calls to action; Rule #30 matches 29 Nov.
-Needs the owner: confirm Rule #30's topic fits the series plan; decide on the campaign disclaimer.
+Needs the owner: confirm Rule #30's topic fits the series plan.

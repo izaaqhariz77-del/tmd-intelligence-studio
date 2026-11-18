@@ -134,6 +134,8 @@ Phase 4 — weekly rhythm: template and one week drafted, then **put on hold**. 
 
 No website, no automation, no dependencies yet.
 
+AI skills Phase 1 — five agents drafted; pull request #4 awaits the owner's approval (2026-11-18). Every published campaign item now carries the provisional disclosure. Privacy notice and retention periods await review (`RESOURCES/2026-11-18-journey-doctrine-privacy-and-retention.md`).
+
 ## AI Agents (Skills Phase 1)
 
 Five independent AI agents, written as instructions in Markdown. No code, no dependencies, no API keys, no paid services.
