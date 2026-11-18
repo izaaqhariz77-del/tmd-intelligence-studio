@@ -3,7 +3,7 @@
 **Campaign name:** Coaching 1-to-1 (kawasan berdekatan)
 **Owner:** Hariz
 **Dates:** start to be confirmed → 29 December 2026 (runs alongside the 60 Rules / Sunday webinar campaign)
-**Status:** PAUSED on the owner's decision of 2026-11-18. Posts C, B and D were moved back to draft in Zernio and the account-opening condition was removed from them. Post A was already published on 16 Nov with the condition; the owner is deciding whether to unpublish it.
+**Status:** ALL COACHING PROMOTION ON HOLD (owner's final decision, 2026-11-18) until the commercial terms and the applicable regulatory permissions have been reviewed. Post A was unpublished on 18 Nov. Posts C, B and D are drafts in Zernio with the account-opening condition removed. None may be rescheduled while the hold stands.
 **Class:** Coaching is a paid service (RM500). The account-opening condition makes it broker-related; under the 2026-11-18 decision no broker-related call to action is published, in posts or in WhatsApp, until regulatory and marketing approval is verified.
 
 ## 1. Objective
@@ -63,7 +63,15 @@ Suggested for the current queue: replace Monday 16 Nov (entry sniper) and Friday
 4. Educational coaching content is kept, subject to content review.
 5. Commercial disclosures are maintained wherever applicable.
 
-### Open question this creates
+### Owner's final decision, 2026-11-18
+
+- **Hold all coaching promotion** until the commercial terms and the applicable regulatory permissions have been reviewed.
+- **Do not move the account-opening condition into WhatsApp.** An undisclosed condition must not reappear in private messages after being removed from public posts.
+- **The free DOCTRINE community continues independently**, with no hidden account conditions and no broker solicitation.
+
+This resolves the open question below: coaching is not promoted in any form while the hold stands.
+
+### Open question this created (resolved by the final decision above)
 
 The owner's business rule is that coaching clients open a trading account through the owner (facts register, 2026-11-15). With the condition paused, the owner must decide one of:
 
@@ -82,12 +90,12 @@ Publishing coaching posts that omit a condition which is then applied in WhatsAp
 
 | Post | Zernio status | Account condition |
 |---|---|---|
-| A — Pengumuman | **Published** 16 Nov, https://www.threads.com/@themarketdoctrine88/post/DfzaqxeDucS | Still in the live post. Threads does not allow editing after publication; the only fix is to unpublish. Owner to decide. |
-| C — Untuk siapa | Draft (paused 18 Nov), was due Fri 20 Nov 9pm | Removed |
-| B — Akaun kecil ($150) | Draft (paused 18 Nov), was due Mon 23 Nov 9pm | Removed |
-| D — Apa jadi dalam sesi | Draft (paused 18 Nov), was due Fri 27 Nov 9pm | Removed |
+| A — Pengumuman | **Unpublished** 18 Nov 2026, 16:22 UTC, on the owner's instruction. Zernio status: cancelled. Was live at https://www.threads.com/@themarketdoctrine88/post/DfzaqxeDucS from 16 Nov 13:02 UTC. | Was in the live post for about 51 hours. Reach at removal (Zernio): 174 views, 4 likes, 3 replies. The one reply thread was a question about FX or stocks, which the owner had answered on 17 Nov; no unanswered enquiry was lost. |
+| C — Untuk siapa | Draft (held), was due Fri 20 Nov 9pm | Removed |
+| B — Akaun kecil ($150) | Draft (held), was due Mon 23 Nov 9pm | Removed |
+| D — Apa jadi dalam sesi | Draft (held), was due Fri 27 Nov 9pm | Removed |
 
-Current text of the paused drafts:
+Current text of the held drafts. Post B also states a $150 starting minimum; under the 18 Nov decision on Rule #25 (no deposit thresholds), that line must be reviewed before B could ever be used.
 
 ### C — Untuk siapa
 
