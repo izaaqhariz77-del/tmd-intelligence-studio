@@ -36,7 +36,7 @@ Agents work on real records only when the owner pastes them into a session or sh
 
 ## Retention
 
-Keep records only as long as needed for the purpose. The owner sets the retention period (open decision) and deletes records after it. A proposed schedule, with purposes and legal bases but no periods yet, is in `RESOURCES/2026-11-18-journey-doctrine-privacy-and-retention.md` §4, awaiting review.
+Keep records only as long as needed for the purpose. The owner sets the retention period (open decision) and deletes records after it. Proposed periods, with purposes and legal bases, are in `RESOURCES/2026-11-18-journey-doctrine-privacy-and-retention.md` §6, awaiting qualified review. They apply only after that review.
 
 ## Legal note
 

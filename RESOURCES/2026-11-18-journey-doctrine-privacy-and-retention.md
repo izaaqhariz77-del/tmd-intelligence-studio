@@ -1,161 +1,249 @@
-# DOCTRINE Journey — Privacy Notice Review and Retention Proposal
+# DOCTRINE Privacy Notice and Retention Proposal
 
 **Agent:** TMD_MAGNET
-**Created:** 2026-11-18
-**Status:** DRAFT
+**Created:** 2026-11-18 · **Revised:** 2026-11-18 (version 2, after the owner's decisions)
+**Status:** DRAFT — not to be published or used until reviewed
 **Class:** Research (internal)
 **Segment:** General
-**Voice:** Review in English. Proposed notice in Malay and English.
-**Channel / slot:** WhatsApp (owner's number): first reply to DOCTRINE, plus a full notice linked from it
-**Sources:** Reply 1 and the journey in `AGENTS/TMD_MAGNET/examples/01-output.md`; `AGENTS/_shared/data-handling.md`; `AGENTS/TMD_PROSPECT_INTELLIGENCE/enquiry-schema.md`; published community posts (5, 6 and 19 Nov); Personal Data Protection Act 2010 and the Personal Data Protection (Amendment) Act 2024, as summarised by the secondary sources listed at the end (read 18 Nov 2026). The Act text and the Commissioner's guidelines were not read directly.
-**Gate:** Regulatory review required. All notice wording below is `[COMPLIANCE REVIEW REQUIRED]`.
+**Voice:** Notice in Malay and English. Review notes in English.
+**Channel / slot:** WhatsApp (owner's number): short notice in the first reply; full notice at a link
+**Sources:** `AGENTS/TMD_MAGNET/examples/01-output.md`; `AGENTS/_shared/data-handling.md`; `AGENTS/TMD_PROSPECT_INTELLIGENCE/enquiry-schema.md`; Personal Data Protection Act 2010 (text of s31 seen in a published copy of Act 709); the 2024 amendments as summarised by law-firm sources; LHDN public rulings on record keeping. All read 18 Nov 2026 and listed at the end.
+**Gate:** Regulatory review required. Every notice text below is `[COMPLIANCE REVIEW REQUIRED]`.
 **Approval:** Reviewed by — · Approved by — · Date —
 
 ---
 
-> Not legal advice. This is a structured list of questions and gaps for a qualified reviewer. Section numbers are given so the reviewer can check them against the Act; where a point rests only on a secondary source, it says so.
+> Not legal advice. This is a proposal for a qualified reviewer. Where a point rests on a secondary source, it says so.
 
-## 1. Summary
+## 1. Owner's decisions applied (18 Nov)
 
-The current notice is a good start: short, plain, with an opt-out. It does not yet cover what the Act's notice principle asks for. The gaps that matter most:
+1. The three qualification questions are **optional**.
+2. The PDF, the community link and the webinar **never depend on answering them**.
+3. A **bilingual** notice (Malay and English) explains the purposes, the processors (WhatsApp, Google), the rights (access, correction, deletion) and the contact channel.
+4. **Specific retention periods** are proposed below, each with its justification and legal basis, for qualified review.
+5. Nothing here is published or used until it has been reviewed.
 
-1. **It does not say the person can see, correct or delete their data, or who to contact.**
-2. **"Tak share dengan pihak lain" is incomplete.** WhatsApp, Google and any webinar platform hold the data on the owner's behalf, possibly outside Malaysia.
-3. **It is in Malay only.** The Act requires the notice in Malay and English.
-4. **Optional or required is unclear.** The notice says the questions are optional, while published posts say "Jawab 3 soalan, aku bagi link". If the answers are a condition for the community link, the notice must say so.
-5. **There is no retention rule.** Section 4 proposes one, with periods left for the owner to set after review.
+**Conflict still live:** three scheduled Threads posts (19 Nov 9pm, 22 Nov 5pm, 28 Nov 9pm) say "Jawab 3 soalan, aku bagi link." They are recorded in `CAMPAIGNS/2026-11-18-scheduled-content-review.md` with proposed wording. Editing them needs the owner's approval.
 
-## 2. Does the Act apply?
+## 2. Placeholders the owner fills in
 
-The Act covers personal data processed in respect of commercial transactions. The DOCTRINE community is free, but it sits inside a business that has offered paid coaching and has an IB commercial relationship. **Working assumption: the Act applies.** The reviewer should confirm.
-
-Since the 2024 amendments took effect, the Act calls the person or business responsible a **data controller** (previously "data user"). The owner, or the owner's registered business, would be the data controller. `[Owner to supply: legal name or business name and contact for privacy requests]`
-
-## 3. Review of the current notice
-
-Current text (Reply 1, last paragraph):
-
-```
-Nombor kau aku guna untuk hantar PDF dan info community je. Tak share dengan pihak lain. Nak berhenti, type STOP.
-```
-
-Checked against the Notice and Choice Principle (s7), as summarised by the sources:
-
-| s7 requirement | Current notice | Gap | Proposed fix |
-|---|---|---|---|
-| That personal data is processed, and a description of it | "Nombor kau" | Name or display name, messages and answers to the three questions are not mentioned | List them |
-| Purposes | PDF and community information | Organising enquiries and fitting education to the answers are not mentioned | Add both |
-| Source of the data | Not stated | Minor: the data comes from the person | One clause |
-| Right to request access and correction; contact for enquiries or complaints | Missing | **Main gap** | Add rights and a contact |
-| Class of third parties the data may be disclosed to | "Tak share dengan pihak lain" | Service providers hold the data; the promise may not be accurate as worded, and must stay true in any future broker relationship | Name the classes (service providers); "I don't sell your data" |
-| Choices and means to limit processing | "type STOP" | Good. Add correction and deletion | Extend |
-| Whether supplying the data is voluntary or obligatory | "kalau kau selesa jawab" | Conflicts with published "Jawab 3 soalan, aku bagi link" | Owner decides (section 6) |
-| Consequences of not supplying, if obligatory | Not stated | Depends on the decision above | State it |
-| Malay and English (s7(3) per one source; the bilingual requirement appears in several) | Malay only | **Gap** | Add English |
-| Given as soon as practicable, at first collection | Yes, in Reply 1 | None | Keep |
-
-Other principles to cover in practice, not only in the notice:
-
-| Principle | What it means here |
+| Placeholder | Needed for |
 |---|---|
-| Disclosure (s8) | Use or disclose data only for the stated purposes. Any broker referral use would need a new notice and consent first. It is blocked anyway while the gate is closed. |
-| Security (s9) | Phone screen lock; two-factor login on the WhatsApp and Google accounts; the private sheet shared with nobody; chat backups encrypted. Since 2024, data processors are also bound by this principle. |
-| Retention (s10) | Keep data no longer than the purpose needs, then destroy or permanently delete it. See section 4. |
-| Data integrity (s11) | Keep records accurate; correct them on request. |
-| Access (s12) | Give access and corrections on request. |
-| Rights the person can use | Access (s30), correction (s34), withdrawal of consent (s38), preventing processing likely to cause damage or distress (s42), preventing direct marketing (s43), and data portability (added in 2024). Section numbers to be confirmed by the reviewer. |
-| Cross-border transfer (s129, amended) | WhatsApp and Google may store data outside Malaysia. The 2024 amendment removed the ministerial whitelist. Transfers are now allowed where the destination has a substantially similar law or adequate protection, or another statutory condition applies. Cross-border transfer guidelines are reported as issued 29 April 2025. |
+| `[DATA CONTROLLER]` — your legal name, or the registered business name if TMD is registered | Who is responsible |
+| `[CONTACT]` — proposed: WhatsApp to the same number; optionally an email address | Where people send requests |
+| `[WEBINAR PLATFORM]` — e.g. WhatsApp call, Google Meet or Zoom | Processor list |
+| Whether webinars are recorded | Recording clause and retention row 7 |
+| Whether you use WhatsApp broadcast lists | Retention row 5 |
+| Where the full notice lives — a Google Doc link, a pinned community message or a future web page | The link in the short notice |
+| `[EFFECTIVE DATE]` | Version line |
 
-## 4. Retention schedule (proposal)
+## 3. Short notice for the first WhatsApp reply `[COMPLIANCE REVIEW REQUIRED]`
 
-Periods are **not set here**. Each row gives the purpose, the legal basis to be confirmed, and the event that ends the purpose. The owner sets each period after review. Where a law sets a period, the reviewer names it.
+To add at the end of Reply 1 in `AGENTS/TMD_MAGNET/examples/01-output.md`. Reply 1 already presents the questions as optional ("kalau kau selesa jawab"); Reply 2 sends the community link whether or not the person answers.
 
-| # | Data | Where held | Purpose | Legal basis (to confirm) | Purpose ends when | Period | Disposal |
-|---|---|---|---|---|---|---|---|
-| 1 | Phone number, WhatsApp name, chat messages | WhatsApp on the owner's phone, plus chat backups | Answer the request; send the PDF, community link and information | Consent (s6), given by messaging DOCTRINE after the notice | The person sends STOP; or leaves or is removed from the community and no conversation is open; or the request is complete and they did not join | Owner to set | Delete the chat and contact labels. Backups keep deleted chats until they are overwritten; set the backup policy to match. |
-| 2 | Enquiry record: schema fields (pseudonymous ID, dates, channel, source, keyword, request, experience category, segment, currently trading, main difficulty, flags, status) | Owner's private store, e.g. Google Sheets | Organise enquiries; fit education to the person; human review queue | Consent (s6) | Same events as row 1, or human review closed | Owner to set | Delete the row. Keep only counts with no identifiers. |
-| 3 | `contact_ref` (the link from the record to the person) | Private store only | Link the record to the conversation | Consent (s6) | Same as row 2 | Same as row 2 | Delete first. Without it, the rest of the record is pseudonymous. |
-| 4 | Consent and notice record: what the person agreed to, when, which notice version | Private store | Show that notice was given and consent obtained | To confirm: accountability under the Act and the Personal Data Protection Standard 2015 | As long as the data in rows 1–3 is held | Owner to set (reviewer to advise whether to keep it for a time after deletion) | Delete with or after the record |
-| 5 | Opt-out record: contact reference and STOP date | Private store | Honour the opt-out; avoid contacting the person again | Compliance with the person's request (s38, s43) | Needed only while any contact list exists that could reach them. The journey sends nothing unprompted, so this may not be needed at all. | Owner to set, or not kept | Delete when no list exists |
-| 6 | Community membership | WhatsApp community or group | Run the community | Consent (joined voluntarily) | Member leaves, is removed after 14 days of silence (published rule), or the community closes | Ends at removal | Remove from the group; update row 2 status |
-| 7 | Webinar attendance and recordings, if any | Webinar platform `[owner to name]` | Live session; recap for members | Consent; tell attendees before recording | Recap no longer offered | Owner to set | Delete recordings and attendance exports |
-| 8 | Public Threads replies | Threads (not copied) | Content research: themes only | Not collected: themes are recorded, never people (`data-handling.md`) | n/a | Not stored | n/a |
-| 9 | Counts with no identifiers | `CONTENT/performance-log.md` | Measure the journey | Not personal data | n/a | No limit needed | n/a |
-| 10 | Paid-service records (coaching, if it resumes) | Not collected now | Contract, payment, invoices | Contract, plus any record-keeping law (for example tax) | Set by those laws | **Reviewer to name the statutory period**, if any | Per that law |
-
-**Never kept, so no retention period applies:** screenshots of chats, balances, deposits, income, debts, broker account details or logins (`enquiry-schema.md`).
-
-**Retention log.** The owner records each deletion (date, row type, how many records, no identifiers). This shows the retention rule is applied in practice. Reviewer to confirm whether the Personal Data Protection Standard 2015 requires a disposal record.
-
-**Factors for setting each period:** how long the purpose actually lasts (for example, from first message to joining the community); how long a "no reply" enquiry is worth keeping; whether the owner needs to show consent after deletion; backup cycles; any legal hold.
-
-## 5. Proposed notice `[COMPLIANCE REVIEW REQUIRED]`
-
-A short notice in the WhatsApp reply, linking to a full notice. Wording assumes the three questions are optional (section 6, decision 1).
-
-**Short notice, Malay**
+**Malay**
 
 ```
-Privasi: Aku simpan nombor, nama WhatsApp dan jawapan kau (kalau kau jawab) untuk hantar PDF, info community dan susun soalan kau. Jawab soalan tu pilihan. Rekod disimpan dalam WhatsApp dan rekod peribadi aku; penyedia servis ni mungkin simpan data luar Malaysia. Aku tak jual data kau, dan tak kongsi dengan pihak lain untuk kegunaan mereka. Nak tengok, betulkan atau padam data kau, mesej aku. Nak berhenti terima mesej, type STOP. Notis penuh: [link]
+Privasi: Aku simpan nombor, nama WhatsApp dan jawapan kau (kalau kau jawab) untuk hantar PDF, link dan info community, dan untuk susun soalan kau. Soalan tu pilihan. PDF dan link tetap aku hantar. Data disimpan dalam WhatsApp dan Google Sheets aku, mungkin di luar Malaysia. Aku tak jual atau bagi data kau kepada pihak lain. Nak tengok, betulkan atau padam data kau, mesej aku; aku balas dalam 21 hari. Nak berhenti, type STOP. Notis penuh: [link]
 ```
 
-**Short notice, English**
+**English**
 
 ```
-Privacy: I keep your number, WhatsApp name and your answers (if you answer) to send the PDF and community information and to organise your questions. Answering is optional. Records are kept in WhatsApp and my private records; these providers may store data outside Malaysia. I don't sell your data or share it with anyone else for their own use. To see, correct or delete your data, message me. To stop messages, reply STOP. Full notice: [link]
+Privacy: I keep your number, WhatsApp name and your answers (if you answer) to send the PDF, the community link and updates, and to organise your questions. The questions are optional; you get the PDF and the link either way. Data is kept in WhatsApp and my Google Sheets, possibly outside Malaysia. I don't sell your data or give it to anyone else. To see, correct or delete your data, message me; I reply within 21 days. To stop, reply STOP. Full notice: [link]
 ```
 
-If the answers are made a condition for the community link, replace the optional sentence with: "Jawapan diperlukan untuk dapat link community. Tak jawab, kau masih dapat PDF." / "Answers are needed for the community link. Without them you still get the PDF."
+Reviewer to decide whether both languages go in the WhatsApp reply, or the Malay short notice plus a link to the bilingual full notice is enough.
 
-**Full notice: sections** (both languages)
+## 4. Full notice — Bahasa Malaysia `[COMPLIANCE REVIEW REQUIRED]`
 
-1. Who we are: THE MARKET DOCTRINE; data controller `[owner to supply]`; contact for privacy requests `[owner to supply]`.
-2. What we collect, and from whom (from you, when you message us).
-3. Why: PDF, community information, organising enquiries, fitting education to you.
-4. Voluntary or required, and what happens if you don't answer.
-5. Who holds it: the owner, and service providers that store or send messages (WhatsApp, Google, the webinar platform), possibly outside Malaysia. We don't sell your data or share it with anyone else for their own use.
-6. How long we keep it: the retention schedule, once periods are set.
-7. Your rights: access, correction, withdrawing consent, stopping messages, data portability; how to ask; how long a reply takes `[reviewer to advise]`.
-8. Complaints: to the owner first; the Personal Data Protection Commissioner.
-9. Version and date.
+```
+NOTIS PRIVASI — THE MARKET DOCTRINE (TMD)
+Versi 1.0 · Berkuat kuasa: [EFFECTIVE DATE]
 
-## 6. Decisions needed from the owner
+1. Siapa kami
+THE MARKET DOCTRINE (TMD) ialah jenama pendidikan trading dan penyelidikan pasaran. Pengawal data: [DATA CONTROLLER]. Untuk sebarang perkara privasi, hubungi: [CONTACT].
 
-1. **Questions optional or required for the community link?** Recommended: optional, as the TMD_MAGNET journey proposed. Then published posts stop saying "Jawab 3 soalan, aku bagi link" from the next batch. If required, the notice must say so (wording above).
-2. **Data controller name and privacy contact.**
-3. **Tools that hold data:** WhatsApp (personal or Business), the private store, the webinar platform, and whether webinars are recorded.
-4. **"Aku tak jual data kau, dan tak kongsi dengan pihak lain."** Confirm it is true today and will stay true, including in any IB relationship. If data might ever go to a broker, the notice and consent must change first (and the broker gate must be open).
-5. **Where the full notice lives:** a Google Doc link, a pinned community message or a future web page.
-6. **Who reviews it:** a lawyer or data protection consultant familiar with the Act.
-7. **Retention periods** for rows 1–7, after the reviewer's advice.
+2. Data yang kami kumpul
+(a) Nombor telefon dan nama WhatsApp anda.
+(b) Mesej yang anda hantar kepada kami.
+(c) Jawapan anda kepada tiga soalan pilihan (tempoh anda trading, sama ada anda aktif sekarang, dan kesukaran utama anda), jika anda menjawab.
+(d) Rekod notis yang anda terima, apa yang anda minta, dan permintaan berhenti.
+Kami tidak meminta baki akaun, jumlah deposit, pendapatan, hutang, butiran akaun broker atau kata laluan. Jangan hantar maklumat ini kepada kami.
 
-## 7. Operational points from the 2024 amendments
+3. Sumber data
+Semua data datang daripada anda sendiri, apabila anda menghantar mesej kepada kami.
 
-Reported in force on 1 June 2025 (dates from secondary sources; the Act came into force in phases on 1 January, 1 April and 1 June 2025):
+4. Tujuan
+(a) Menghantar PDF dan pautan komuniti yang anda minta.
+(b) Menghantar maklumat komuniti dan webinar.
+(c) Menyusun pertanyaan anda, dan menyesuaikan bahan pendidikan dengan pengalaman anda jika anda menjawab soalan.
+(d) Merekod dan menghormati permintaan anda untuk berhenti.
+Kami tidak menggunakan data anda untuk tujuan lain tanpa memberitahu anda dan mendapatkan persetujuan anda terlebih dahulu.
 
-| Change | What it may mean for TMD | Confidence |
+5. Wajib atau pilihan
+Nombor WhatsApp anda diperlukan untuk menghantar PDF dan pautan kepada anda. Tiga soalan itu pilihan. Anda tetap menerima PDF dan pautan komuniti walaupun anda tidak menjawab.
+
+6. Siapa yang memproses data anda
+Pemilik TMD, dan penyedia perkhidmatan yang menyimpan atau menghantar data bagi pihak kami:
+- WhatsApp (Meta): mesej;
+- Google (Google Sheets): rekod pertanyaan peribadi pemilik;
+- [WEBINAR PLATFORM]: sesi webinar.
+Penyedia ini mungkin menyimpan data di luar Malaysia. Kami tidak menjual data anda dan tidak memberikannya kepada pihak lain untuk kegunaan mereka sendiri.
+
+7. Tempoh simpanan
+- Jika anda tidak menyertai komuniti: data dipadam 30 hari selepas mesej terakhir.
+- Jika anda ahli komuniti: data disimpan selagi anda ahli, dan dipadam 30 hari selepas anda keluar atau dikeluarkan.
+- Jika anda menaip STOP: kami berhenti menghantar mesej serta-merta dan memadam data anda dalam masa 7 hari.
+- Rakaman webinar (jika ada): dipadam 30 hari selepas sesi.
+
+8. Hak anda
+(a) Akses: minta salinan data anda yang kami simpan.
+(b) Pembetulan: minta kami membetulkan data yang salah, tidak lengkap atau tidak terkini.
+(c) Pemadaman: minta kami memadam data anda. Kami akan memadamnya, kecuali jika undang-undang mewajibkan kami menyimpannya.
+(d) Tarik balik persetujuan dan berhenti menerima mesej: taip STOP atau BERHENTI pada bila-bila masa.
+(e) Pemindahan data: minta data anda dipindahkan, jika boleh dilakukan secara teknikal.
+Hantar permintaan kepada [CONTACT]. Kami akan membalas dalam masa 21 hari.
+
+9. Keselamatan
+Data disimpan dalam akaun pemilik yang dilindungi kata laluan dan pengesahan dua langkah. Rekod pertanyaan tidak dikongsi dengan sesiapa.
+
+10. Bawah umur 18 tahun
+Jika anda berumur bawah 18 tahun, minta ibu bapa atau penjaga anda menghubungi kami dahulu.
+
+11. Aduan
+Hubungi kami dahulu. Anda juga boleh membuat aduan kepada Pesuruhjaya Perlindungan Data Peribadi Malaysia.
+
+12. Perubahan notis
+Kami akan memaklumkan anda tentang sebarang perubahan sebelum menggunakan data anda dengan cara baharu.
+```
+
+## 5. Full notice — English `[COMPLIANCE REVIEW REQUIRED]`
+
+```
+PRIVACY NOTICE — THE MARKET DOCTRINE (TMD)
+Version 1.0 · Effective: [EFFECTIVE DATE]
+
+1. Who we are
+THE MARKET DOCTRINE (TMD) is a trading education and market research brand. Data controller: [DATA CONTROLLER]. For anything about your privacy, contact: [CONTACT].
+
+2. What we collect
+(a) Your phone number and WhatsApp name.
+(b) The messages you send us.
+(c) Your answers to three optional questions (how long you have traded, whether you trade now, and your main difficulty), if you answer.
+(d) A record of the notice you received, what you asked for, and any request to stop.
+We do not ask for account balances, deposit amounts, income, debts, broker account details or passwords. Please do not send them.
+
+3. Where it comes from
+From you, when you message us.
+
+4. Why we use it
+(a) To send the PDF and the community link you asked for.
+(b) To send community and webinar information.
+(c) To organise your questions and, if you answer the questions, to fit our educational material to your experience.
+(d) To record and respect any request to stop.
+We will not use your data for any other purpose without telling you and getting your consent first.
+
+5. Required or optional
+Your WhatsApp number is needed to send you the PDF and the link. The three questions are optional. You still receive the PDF and the community link if you do not answer.
+
+6. Who processes your data
+The owner of TMD, and service providers that store or send data on our behalf:
+- WhatsApp (Meta): messages;
+- Google (Google Sheets): the owner's private enquiry records;
+- [WEBINAR PLATFORM]: webinar sessions.
+These providers may store data outside Malaysia. We do not sell your data or give it to anyone else for their own use.
+
+7. How long we keep it
+- If you do not join the community: deleted 30 days after the last message.
+- If you are a community member: kept while you are a member, then deleted 30 days after you leave or are removed.
+- If you reply STOP: we stop messaging you immediately and delete your data within 7 days.
+- Webinar recordings, if any: deleted 30 days after the session.
+
+8. Your rights
+(a) Access: ask for a copy of the data we hold about you.
+(b) Correction: ask us to correct data that is wrong, incomplete or out of date.
+(c) Deletion: ask us to delete your data. We will, unless the law requires us to keep it.
+(d) Withdrawing consent and stopping messages: reply STOP or BERHENTI at any time.
+(e) Portability: ask for your data to be transferred, where technically feasible.
+Send requests to [CONTACT]. We reply within 21 days.
+
+9. Security
+Data is kept in the owner's accounts, protected by password and two-step verification. Enquiry records are not shared with anyone.
+
+10. Under 18
+If you are under 18, please ask a parent or guardian to contact us first.
+
+11. Complaints
+Please contact us first. You may also complain to the Personal Data Protection Commissioner of Malaysia.
+
+12. Changes
+We will tell you about any change before we use your data in a new way.
+```
+
+## 6. Retention schedule — proposed periods for qualified review
+
+The owner asked for specific periods. Each is a proposal with its reason; the reviewer confirms or changes it.
+
+| # | Data | Proposed period | Clock starts | Justification | Legal basis (to confirm) |
+|---|---|---|---|---|---|
+| 1 | Chat, number and WhatsApp name — person did not join the community | **30 days** | Last message either way | Covers the single reminder the journey allows and late replies. After that the request is complete. | Consent (s6); retention principle (s10) |
+| 2 | Chat, number and WhatsApp name — community member | **While a member, then 30 days** | Leaving, or removal (including after 14 days' silence, the published community rule) | The purpose continues while the person is a member. 30 days allows a rejoin or a mistaken removal to be fixed. | s6; s10 |
+| 3 | Enquiry record in the private sheet, including the optional answers and `contact_ref` | **Same as rows 1–2** | Same | Same purpose as the conversation. Delete `contact_ref` first. | s6; s10 |
+| 4 | Everything about a person who sends STOP | **Stop messaging at once; delete within 7 days** | The STOP message | Withdrawal ends the purpose. 7 days gives a sole operator time to clear chat, sheet and labels. | Withdrawal of consent (s38); direct marketing (s43); s10 |
+| 5 | Do-not-contact entry (number and STOP date) | **Only if broadcast lists are used: for as long as any list exists, reviewed every 12 months** | The STOP message | Prevents re-adding the person to a list. Without lists, nothing is kept. | s38; s43; s10 |
+| 6 | Consent and notice record for a person | **Same as the enquiry record** | Same | Shows notice and consent while the data is held. Notice versions themselves hold no personal data and are kept permanently. | Notice principle (s7); s10 |
+| 7 | Webinar recordings, if any | **30 days** | Session date | Recap window for members who missed the session. A permanent library would need recordings without members, or separate consent. | Consent, with notice before recording (s6, s7); s10 |
+| 8 | Attendance or participant exports | **Do not create; if created, 7 days** | Export date | Not needed for any purpose above. | s10 |
+| 9 | Backups and version history (WhatsApp backups; Google Sheets version history) | **Must not outlast rows 1–8** | — | Deleted rows stay in Google Sheets version history. Monthly: copy the sheet to a new file (copies do not carry history), delete the old file and empty the trash. Keep WhatsApp backups encrypted. | Security (s9); s10 |
+| 10 | Paid-service records, only if coaching resumes (invoices, receipts, payment records) | **7 years from the end of the year the income relates to** | End of that year | Statutory record keeping for a business. | Income Tax Act 1967 s82, as explained in LHDN public rulings; confirm with a tax adviser |
+| 11 | Counts with no identifiers | **No limit** | — | Not personal data. | n/a |
+
+**Deletion routine.** Every Saturday (alongside the Rule #29 journal review), delete everything that reaches its date within the next 7 days. Log each run in the sheet: date, record types, number deleted, no names. This keeps every deletion inside the stated period and shows the rule is applied.
+
+**Rights-request timing.** The notice promises a reply within 21 days. The Act's s31 sets 21 days for access requests (text seen in a published copy of the Act), with written notice and a further 14 days if more time is needed. Secondary sources give 21 days for correction (s35). Deletion on request is a TMD commitment: the Act has no general right to erasure, but withdrawal of consent ends the processing (s38).
+
+## 7. Questions for the reviewer
+
+1. Is consent (s6) the right basis for each row, or do any of the s6(2) exceptions apply?
+2. Cross-border transfer (amended s129): is consent or the providers' safeguards the right basis for WhatsApp and Google storing data outside Malaysia? Is the notice wording enough?
+3. Should consent evidence be kept for a time after the rest of a record is deleted, to answer a later complaint?
+4. Are 30 days (rows 1–3), 7 days (row 4) and 30 days for recordings appropriate?
+5. Under-18s: is the clause enough, given the parental-consent rules for data subjects below 18?
+6. Does a bilingual short notice need to sit in the WhatsApp reply itself, or is a link to the bilingual full notice enough?
+7. Breach notification (in force from 1 June 2025): confirm the timing in the Commissioner's guideline; several firms cite 72 hours. A one-page plan for a lost phone or a compromised Google account should follow.
+8. Data Protection Officer: confirm TMD is below the guideline thresholds.
+9. Are the section numbers right in the amended Act, including data portability?
+
+## 8. Gap review of the current notice (version 1, kept for the reviewer)
+
+| Requirement (s7, as summarised by the sources) | Current Reply 1 notice | Covered in this proposal |
 |---|---|---|
-| Data breach notification | If the phone, WhatsApp, Google account or private sheet is compromised, the Commissioner must be notified as soon as practicable. Affected people may also need to be told. Several firms cite 72 hours from the Commissioner's guideline; one source could not confirm that figure. Write a one-page breach plan. | Medium. Reviewer to confirm the timing |
-| Data Protection Officer | Required above thresholds set in a guideline. One summary cites over 20,000 data subjects, over 10,000 for sensitive data, or regular and systematic monitoring. TMD is likely below them. | Medium. Reviewer to confirm |
-| Data portability | People can ask for their data to be sent to another provider, where technically feasible | Medium-high |
-| Processors bound by the Security Principle | Applies to anyone who processes data for the owner, such as an assistant or a tool | Medium-high |
-| Higher penalties | Penalties were raised. The amount was not confirmed in this review. | Confirmed raised; figure not verified |
+| Data processed and a description | Number only | Section 2 of the notice |
+| Purposes | PDF and community information | Section 4 |
+| Source | Not stated | Section 3 |
+| Access and correction rights; contact | Missing | Sections 1 and 8 |
+| Third parties | "Tak share dengan pihak lain" | Section 6 names the processors |
+| Choices to limit processing | STOP | Sections 7 and 8 |
+| Voluntary or obligatory, and consequences | "Kalau kau selesa jawab" | Section 5 |
+| Malay and English | Malay only | Sections 3–5 of this file |
 
-## Sources (secondary; read 18 Nov 2026)
+## Sources
 
-- DataGuidance — Personal Data Protection (Amendment) Act 2024: key changes. https://www.dataguidance.com/opinion/malaysia-personal-data-protection-amendment-act
-- Baker McKenzie — Malaysia: Personal Data Protection (Amendment) Act 2024 to come into force. https://www.bakermckenzie.com/-/media/files/insight/publications/alerts/08/malaysia-public-consultation-on-the-personal-data-protection-regulations/malaysia-personal-data-protection-amendment-act-2024-to-come-into-force--ba.pdf
-- DLA Piper — Data protection laws of the world: Malaysia. https://www.dlapiperdataprotection.com/?t=law&c=MY
-- BlackTree — Malaysia's privacy reform puts DPOs and breach notices on the clock (4 Jun 2025). https://blacktree.nl/2025/06/04/malaysias-privacy-reform-puts-dpos-and-breach-notices-on-the-clock/
-- Ridza Law — Malaysia's Personal Data Protection (Amendment) Act 2024. https://www.ridzalaw.com.my/post/malaysia-s-personal-data-protection-amendment-act-2024
-- Rahmat Lim & Partners — Amendment Bill 2024 passed by Parliament. https://www.rahmatlim.com/perspectives/articles/28434/mykh-personal-data-protection-amendment-bill-2024-passed-by-parliament
-- Edwin Lee & Partners — 20 FAQs on the PDPA 2010 (updated for the 2024 amendments). https://lpplaw.my/insights/e-articles/faq-pdpa-2010/
-- CecoLaw — PDPA Malaysia: 2024 amendments. https://www.cecolaw.com/data-privacy-law-in-malaysia/
-
-Primary sources for the reviewer: the Act as amended, the Personal Data Protection Standard 2015, and the Commissioner's guidelines on breach notification, DPOs and cross-border transfers (Personal Data Protection Department).
+- Personal Data Protection Act 2010 (Act 709), published copy including s31: https://miea.com.my/sites/default/files/webmaster/Personal%20Data%20Protection%20Act%202010%20Act%20709_15Jun2016.pdf
+- Low & Partners — Personal Data Protection Act 2010 commentary: https://www.lowpartners.com/personal-data-protection-act-2010-part-1
+- Christopher & Lee Ong — Amendment Act A1727 text: https://christopherleeong.com/wp-content/uploads/2024/12/PDPA-Amendment-Act-A1727.pdf
+- DataGuidance — PDP (Amendment) Act 2024, key changes: https://www.dataguidance.com/opinion/malaysia-personal-data-protection-amendment-act
+- BlackTree — DPOs and breach notices (4 Jun 2025): https://blacktree.nl/2025/06/04/malaysias-privacy-reform-puts-dpos-and-breach-notices-on-the-clock/
+- Ridza Law — PDP (Amendment) Act 2024: https://www.ridzalaw.com.my/post/malaysia-s-personal-data-protection-amendment-act-2024
+- Edwin Lee & Partners — 20 FAQs on the PDPA (2024 amendments): https://lpplaw.my/insights/e-articles/faq-pdpa-2010/
+- CecoLaw — PDPA 2024 amendments: https://www.cecolaw.com/data-privacy-law-in-malaysia/
+- LHDN — Public Ruling 4/2000 (record keeping): https://www.hasil.gov.my/wp-content/uploads/PR4_2000_Rev.pdf
+- CTIM — Keeping sufficient records, individuals and partnerships (PR 5/2000): https://www.ctim.org.my/file/news/14/00045_Keeping%20Sufficient%20Records%20(Individuals%20&%20Partnerships)%20-%20PR%2005-00%20(add.%201)%20(300600).pdf
+- LHDN — tax documents must be kept at least 7 years (2023): https://www.hasil.gov.my/wp-content/uploads/20230111-berita-harian-dokumen-percukaian-mesti-disimpan-paling-kurang-7-tahun.pdf
 
 ## Checks
 
-Shared checklist: PASS — no personal data; facts and assumptions labelled; secondary-source points flagged with confidence.
-Agent checks: PASS — notice at first contact, marked `[COMPLIANCE REVIEW REQUIRED]`; opt-out and its effect stated; no coaching, broker, account or deposit step; questions limited to the schema; no retention period invented.
-Needs the owner: the seven decisions in section 6, and a qualified reviewer.
+Shared checklist: PASS — no personal data; legal points labelled by source and confidence; nothing published.
+Agent checks: PASS — questions optional and no resource depends on them; opt-out and its effect stated; no coaching, broker, account or deposit step; notice at first contact, marked `[COMPLIANCE REVIEW REQUIRED]`.
+Needs the owner: the placeholders in section 2; a qualified reviewer; approval to fix the three scheduled posts that gate the link.
