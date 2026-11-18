@@ -86,9 +86,10 @@ Any jurisdiction-specific wording (risk warnings, licence numbers, loss statisti
 
 ## 8. Language
 
-- Default: English.
-- Other languages / local variants: _TBD — see unresolved decisions in README._
-- Whatever the language, the rules in sections 2–5 still apply.
+- **From launch (after 29 December 2026):** English is the default for the institutional TMD voice described in this file.
+- **Until then:** the Threads account runs the owner's "60 Rules" campaign in Manglish, first person ("aku/kau"), written and scheduled by the owner. This file does not govern that campaign's voice, and institutional English content is not posted to that account during it.
+- How the two voices relate after launch (replace, run side by side, or split by channel) is undecided — see README.
+- Whatever the language, the claims rules in section 5 and `BRAND/brand-identity.md` still apply.
 
 ## 9. Pre-publish checklist
 

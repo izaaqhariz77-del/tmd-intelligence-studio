@@ -57,9 +57,9 @@ Fill in as the audience is validated. Working assumption:
 
 | Question | Answer (update when known) |
 |---|---|
-| Primary market / country | _TBD_ |
-| Primary language(s) | _TBD_ |
-| Core instruments covered | _TBD_ |
+| Primary market / country | Malaysia — observed from the live Threads campaign audience, 2026-11-14. Confirm for the institutional launch. |
+| Primary language(s) | Current campaign: Manglish. Institutional launch (after 29 Dec 2026): English. |
+| Core instruments covered | Gold (XAU/USD) is the focus of the live campaign. Not yet confirmed as the only instrument. |
 | Experience level we write for | _TBD_ |
 
 ## 6. Verified facts register
@@ -76,6 +76,8 @@ Only facts listed here may be stated publicly about the brand. If it is not in t
 | Audience size / client numbers | _Not recorded_ | | |
 | Partnerships / affiliations | _Not recorded_ | | |
 | Business model: media brand + IB acquisition channel | Confirmed by owner | Owner decision | 2026-11-14 |
+| Face-to-face coaching | More than 15 people coached; RM500 for 4 sessions a month; weekly online class in the community afterwards is free; clients must open a trading account through the owner; areas Sentul, Wangsa Maju, Melawati | Owner statement | 2026-11-15 |
+| Coaching client feedback | Owner says it exists; not yet recorded here, consent not confirmed | | |
 | Partner broker name(s) | Versus Trade (exact legal entity name to be confirmed) | Owner statement | 2026-11-14 |
 | Partner broker regulator(s) and licence numbers | _Not recorded_ | | |
 | How TMD is compensated (e.g. spread/commission share) | _Not recorded_ | | |

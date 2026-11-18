@@ -30,7 +30,9 @@ tmd-intelligence-studio/
 │   ├── threads/
 │   ├── instagram/
 │   ├── tiktok/
-│   └── whatsapp/
+│   ├── whatsapp/
+│   ├── weekly-calendar/         One plan per week
+│   └── performance-log.md       Results per published piece
 ├── CAMPAIGNS/                   One brief per campaign
 ├── HIGGSFIELD/
 │   ├── image-prompts/           Saved image prompts that work
@@ -38,7 +40,8 @@ tmd-intelligence-studio/
 └── TEMPLATES/
     ├── market-research-template.md
     ├── daily-content-template.md
-    └── campaign-brief-template.md
+    ├── campaign-brief-template.md
+    └── weekly-calendar-template.md
 ```
 
 ## Daily workflow
@@ -49,6 +52,10 @@ tmd-intelligence-studio/
 4. **Visuals** — write or reuse prompts in `HIGGSFIELD/`, following `BRAND/visual-guidelines.md`.
 5. **Check** — run the pre-publish checklist in `BRAND/tone-of-voice.md`.
 6. **Publish and log** — record links and performance notes in the content file.
+
+## Weekly rhythm
+
+Plan each week on the weekend with `TEMPLATES/weekly-calendar-template.md`. Four standing slots: week ahead, event reaction, mid-week lesson, week in review. Any view published with an invalidation is followed up in the week in review.
 
 For multi-day pushes, start with `TEMPLATES/campaign-brief-template.md` in `CAMPAIGNS/`.
 
@@ -61,6 +68,7 @@ Lowercase, hyphens, date first so files sort correctly.
 | Daily research | `YYYY-MM-DD-market-research.md` | `2026-01-15-market-research.md` |
 | Macro library | `topic-slug.md` | `us-interest-rates.md` |
 | Content | `YYYY-MM-DD-topic-slug.md` | `2026-01-15-gold-rejects-resistance.md` |
+| Weekly calendar | `YYYY-MM-DD-week.md` (Monday's date) | `2026-11-16-week.md` |
 | Campaign | `YYYY-MM-campaign-name.md` | `2026-02-risk-management-series.md` |
 | Higgsfield prompt | `subject-slug.md` | `trading-desk-at-dusk.md` |
 
@@ -90,6 +98,8 @@ Full detail: `BRAND/brand-identity.md` → Claims policy and Commercial disclosu
 - [x] Commercial model — media brand plus transparently disclosed Introducing Broker acquisition channel; three pillars; research-first and education-first (decided 2026-11-14).
 - [x] Disclosure principles — disclose in content, no "independent" framing around commercial relationships, educational and promotional kept distinct, jurisdiction wording reviewed before publication.
 
+- [x] Launch timing — the institutional, English-language TMD described in `BRAND/` launches **after the current campaign ends on 29 December 2026**. Until then the Threads account runs the existing "60 Rules" campaign in Manglish and no institutional content is posted there (decided 2026-11-14).
+
 ### Unresolved
 
 Blocking promotional content:
@@ -116,5 +126,10 @@ General:
 
 Phase 1 — foundational structure: complete.
 Phase 2 — first content cycle: one research note and one educational content pack drafted (2026-11-14). Drafts only; nothing published.
+
+Phase 3 — publish and measure: one English thread published on Threads (2026-11-14) before the live campaign was checked. Performance log added.
+Phase 4 — weekly rhythm: template and one week drafted, then **put on hold**. See below.
+
+**On hold until after 29 December 2026.** The Threads account `themarketdoctrine88` is running the owner's "60 Rules" campaign (Manglish, three posts a day, free Sunday webinar). Institutional TMD content is not to be posted to that account until the campaign ends. Research notes can still be written and used as webinar material.
 
 No website, no automation, no dependencies yet.
