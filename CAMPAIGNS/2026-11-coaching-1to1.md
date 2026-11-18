@@ -3,8 +3,8 @@
 **Campaign name:** Coaching 1-to-1 (kawasan berdekatan)
 **Owner:** Hariz
 **Dates:** start to be confirmed → 29 December 2026 (runs alongside the 60 Rules / Sunday webinar campaign)
-**Status:** Live. All four posts scheduled on the owner's go-ahead: A Mon 16 Nov, C Fri 20 Nov, B Mon 23 Nov, D Fri 27 Nov, all 9:00pm Malaysia time.
-**Class:** Promotional. Coaching clients must open a trading account through the owner, who is paid by the broker as an Introducing Broker. The posts state the account condition but **not** the Introducing Broker relationship: the owner instructed its removal on 2026-11-16.
+**Status:** PAUSED on the owner's decision of 2026-11-18. Posts C, B and D were moved back to draft in Zernio and the account-opening condition was removed from them. Post A was already published on 16 Nov with the condition; the owner is deciding whether to unpublish it.
+**Class:** Coaching is a paid service (RM500). The account-opening condition makes it broker-related; under the 2026-11-18 decision no broker-related call to action is published, in posts or in WhatsApp, until regulatory and marketing approval is verified.
 
 ## 1. Objective
 
@@ -55,15 +55,22 @@ Suggested for the current queue: replace Monday 16 Nov (entry sniper) and Friday
 
 ## 5. Disclosure and compliance
 
-**Owner's decision, 2026-11-16:** the Introducing Broker disclosure line was removed from all four posts before any was published. The posts keep the account condition:
+### Owner's decision, 2026-11-18 (supersedes 2026-11-16)
 
-```
-Syarat: buka akaun trading melalui aku.
-```
+1. Remove the account-opening condition (`Syarat: buka akaun trading melalui aku.`) from all public posts.
+2. Do not move the same solicitation into WhatsApp to avoid advertising requirements.
+3. No broker-related call to action is published until the relevant regulatory and marketing approval has been verified.
+4. Educational coaching content is kept, subject to content review.
+5. Commercial disclosures are maintained wherever applicable.
 
-This departs from `BRAND/brand-identity.md` section 8, which the owner set on 2026-11-14 and which requires the commercial relationship to be disclosed beside the call to action. The policy document has not been changed; the two now disagree and the owner should decide which stands.
+### Open question this creates
 
-Drafter's recommendation, not adopted: state the relationship in the first WhatsApp reply, before the client pays or opens an account.
+The owner's business rule is that coaching clients open a trading account through the owner (facts register, 2026-11-15). With the condition paused, the owner must decide one of:
+
+- offer coaching without the account condition until approval is verified, or
+- keep the condition and hold all coaching promotion until approval is verified.
+
+Publishing coaching posts that omit a condition which is then applied in WhatsApp would be misleading by omission. The paused drafts must not be rescheduled until this is decided.
 
 **Not yet done, and the owner's responsibility:**
 
@@ -73,32 +80,16 @@ Drafter's recommendation, not adopted: state the relationship in the first Whats
 
 ## 6. Posts
 
-All under 500 characters.
+| Post | Zernio status | Account condition |
+|---|---|---|
+| A — Pengumuman | **Published** 16 Nov, https://www.threads.com/@themarketdoctrine88/post/DfzaqxeDucS | Still in the live post. Threads does not allow editing after publication; the only fix is to unpublish. Owner to decide. |
+| C — Untuk siapa | Draft (paused 18 Nov), was due Fri 20 Nov 9pm | Removed |
+| B — Akaun kecil ($150) | Draft (paused 18 Nov), was due Mon 23 Nov 9pm | Removed |
+| D — Apa jadi dalam sesi | Draft (paused 18 Nov), was due Fri 27 Nov 9pm | Removed |
 
-### A — Pengumuman · SCHEDULED Mon 16 Nov 9:00pm (replaces the "entry sniper" post)
+Current text of the paused drafts:
 
-491 characters
-
-```
-Ada benda yang webinar tak boleh buat: duduk sebelah kau, tengok kau tekan entry.
-
-Aku buka coaching 1-to-1, face to face. Sentul, Wangsa Maju, Melawati je.
-
-Depan chart kau sendiri:
-• Cara guna lot untuk akaun kecil
-• Disiplin: bila trade, bila stop
-• Cari target sebelum entry
-
-RM500 sebulan, 4 sesi. Lepas tu sambung kelas online mingguan dalam community. Free.
-
-Syarat: buka akaun trading melalui aku.
-
-WhatsApp aku (link kat bio), type COACHING.
-```
-
-### C — Untuk siapa · SCHEDULED Fri 20 Nov 9:00pm (replaces the "screenshot profit" post)
-
-486 characters
+### C — Untuk siapa
 
 ```
 Aku dah coach lebih 15 orang face to face. Masalah yang selalu aku jumpa:
@@ -111,14 +102,12 @@ Bukan untuk kau kalau kau nak signal atau untung cepat.
 
 Untuk kau kalau sanggup jumpa, buka chart, kena tegur.
 
-Sentul, Wangsa Maju, Melawati. RM500 sebulan, 4 sesi. Syarat: buka akaun trading melalui aku.
+Sentul, Wangsa Maju, Melawati. RM500 sebulan, 4 sesi.
 
 WhatsApp aku (link kat bio), type COACHING.
 ```
 
-### B — Akaun kecil ($150) · SCHEDULED Mon 23 Nov 9:00pm
-
-500 characters
+### B — Akaun kecil ($150)
 
 ```
 "Modal kecil tak boleh trade gold."
@@ -129,14 +118,12 @@ Bukan sebab $150 selamat dari rugi. Sebab bawah tu, lot paling kecil pun dah ter
 
 Aku tak janji untung. Aku ajar cara guna lot dan disiplin untuk akaun kecil, supaya kau berhenti top-up sebab blow.
 
-Coaching 1-to-1, Sentul, Wangsa Maju, Melawati. Syarat: buka akaun trading melalui aku.
+Coaching 1-to-1, Sentul, Wangsa Maju, Melawati.
 
 WhatsApp (link kat bio), type COACHING.
 ```
 
-### D — Apa jadi dalam sesi · SCHEDULED Fri 27 Nov 9:00pm; session flow is the drafter's, owner to correct before it goes out
-
-499 characters
+### D — Apa jadi dalam sesi
 
 ```
 Apa jadi dalam sesi 1-to-1 pertama:
@@ -148,10 +135,12 @@ Apa jadi dalam sesi 1-to-1 pertama:
 
 Balik rumah, kau ada satu muka surat rule.
 
-RM500 sebulan, 4 sesi. Sentul, Wangsa Maju, Melawati. Syarat: buka akaun trading melalui aku.
+RM500 sebulan, 4 sesi. Sentul, Wangsa Maju, Melawati.
 
 WhatsApp (link kat bio), type COACHING.
 ```
+
+Post D's four-step session flow was drafted by the assistant and still needs the owner's correction.
 
 ## 7. Limits to know about
 
