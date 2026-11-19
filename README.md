@@ -133,3 +133,36 @@ Phase 4 — weekly rhythm: template and one week drafted, then **put on hold**. 
 **On hold until after 29 December 2026.** The Threads account `themarketdoctrine88` is running the owner's "60 Rules" campaign (Manglish, three posts a day, free Sunday webinar). Institutional TMD content is not to be posted to that account until the campaign ends. Research notes can still be written and used as webinar material.
 
 No website, no automation, no dependencies yet.
+
+## AI Agents (Skills Phase 1)
+
+Five independent AI agents, written as instructions in Markdown. No code, no dependencies, no API keys, no paid services.
+
+| Agent | Job | Drafts go to | Claude Code skill |
+|---|---|---|---|
+| TMD_INTELLIGENCE | Audience segments, pain points, public conversation themes, content opportunities | `RESEARCH/audience/` | `/tmd-intelligence` |
+| TMD_AUTHORITY | Positioning, thought leadership, brand consistency | `STRATEGY/` | `/tmd-authority` |
+| TMD_CONTENT_LAB | Threads, Instagram, XAUUSD explainers, trading psychology | `CONTENT/<channel>/` | `/tmd-content-lab` |
+| TMD_MAGNET | Educational resources, voluntary enquiry journeys, landing page copy | `RESOURCES/` | `/tmd-magnet` |
+| TMD_PROSPECT_INTELLIGENCE | Organises voluntary enquiries; human review queue | Not stored in this repository | `/tmd-prospect-intelligence` |
+
+```
+AGENTS/
+├── README.md                  Index and how to run an agent
+├── _shared/                   Guardrails, approval workflow, checklist, data handling, header, integrations
+└── TMD_<AGENT>/               AGENT.md, CHECKS.md, README.md, examples/
+.claude/skills/tmd-*/SKILL.md  Claude Code wrappers that point to AGENTS/
+BRAND/voice-campaign-manglish.md   The live campaign voice
+RESEARCH/audience/  STRATEGY/  RESOURCES/   Agent output folders
+PROSPECTS/README.md            Why prospect records never live here
+```
+
+**Rules that apply to every agent** (full text in `AGENTS/_shared/guardrails.md`):
+
+- Drafts only. Publication needs the owner's approval of the specific item (`AGENTS/_shared/approval-workflow.md`).
+- No broker, account-opening or deposit calls to action while the regulatory review gate is closed. Coaching promotion is on hold.
+- No invented performance, testimonials, credentials or regulatory status.
+- PRIMARY and SECONDARY audiences are kept separate, with protections for traders rebuilding after losses.
+- No personal data in this repository.
+
+Start with `AGENTS/README.md`.

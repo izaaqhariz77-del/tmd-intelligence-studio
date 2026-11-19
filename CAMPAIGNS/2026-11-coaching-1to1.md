@@ -3,7 +3,7 @@
 **Campaign name:** Coaching 1-to-1 (kawasan berdekatan)
 **Owner:** Hariz
 **Dates:** start to be confirmed → 29 December 2026 (runs alongside the 60 Rules / Sunday webinar campaign)
-**Status:** PAUSED on the owner's decision of 2026-11-18. Posts C, B and D were moved back to draft in Zernio and the account-opening condition was removed from them. Post A was already published on 16 Nov with the condition; the owner is deciding whether to unpublish it.
+**Status:** ALL COACHING PROMOTION ON HOLD (owner's final decision, 2026-11-18) until the commercial terms and the applicable regulatory permissions have been reviewed. Post A was unpublished on 18 Nov. Posts C, B and D are drafts in Zernio with the account-opening condition removed. None may be rescheduled while the hold stands. The $150 minimum was removed from draft B on 18 Nov (owner decision): no coaching draft states a capital threshold.
 **Class:** Coaching is a paid service (RM500). The account-opening condition makes it broker-related; under the 2026-11-18 decision no broker-related call to action is published, in posts or in WhatsApp, until regulatory and marketing approval is verified.
 
 ## 1. Objective
@@ -24,7 +24,7 @@ A separate keyword (COACHING, not DOCTRINE) keeps these leads countable apart fr
 |---|---|---|
 | 1 | Areas | Sentul, Wangsa Maju, Melawati |
 | 2 | Terms | RM500 for 4 face-to-face sessions in a month. Afterwards clients continue with the weekly online class in the community, which is free (corrected by owner 2026-11-16; "asing" meant separate from the package, not a separate charge). Clients must open a trading account through the owner (confirmed 2026-11-16). |
-| 3 | The $150 figure | The minimum capital the owner considers safe to start trading. The owner's system does **not** use a 1% risk rule. |
+| 3 | The $150 figure | The minimum capital the owner considers safe to start trading. The owner's system does **not** use a 1% risk rule. **Not used in any content** (owner decision, 18 Nov: no deposit or capital thresholds). |
 | 4 | Track record | More than 15 people coached face to face. Feedback exists; the files have not reached this workspace yet. |
 
 ### Still open
@@ -40,7 +40,7 @@ The owner's brief was: the system is proven, and with capital as low as $150 a t
 | Brief | Used in posts as | Reason |
 |---|---|---|
 | "Proven" | Not used yet | Needs real numbers or real, consented feedback (question 4). No invented testimonials. |
-| "Dengan $150 dah boleh survive" | "$150: modal minimum yang aku syorkan untuk mula", with the reason, and a line that $150 is not safe from loss | The owner's recommendation is his to make. "Safe" on its own could be read as protection from loss. |
+| "Dengan $150 dah boleh survive" | **Removed 18 Nov.** Draft B now explains risk in dollars at a given stop, as in Rule #25, with no starting amount | Owner decision, 18 Nov: no deposit or capital thresholds in content. |
 | "Takkan depo-depo dah" | "supaya kau tak perlu top-up sebab blow" as the aim of what is taught, next to "Aku tak janji untung" | A promise that someone will never deposit again is an outcome guarantee. The account's own post of 1 Nov says it will never promise profit. |
 
 ## 4. Where it fits in the schedule
@@ -63,7 +63,15 @@ Suggested for the current queue: replace Monday 16 Nov (entry sniper) and Friday
 4. Educational coaching content is kept, subject to content review.
 5. Commercial disclosures are maintained wherever applicable.
 
-### Open question this creates
+### Owner's final decision, 2026-11-18
+
+- **Hold all coaching promotion** until the commercial terms and the applicable regulatory permissions have been reviewed.
+- **Do not move the account-opening condition into WhatsApp.** An undisclosed condition must not reappear in private messages after being removed from public posts.
+- **The free DOCTRINE community continues independently**, with no hidden account conditions and no broker solicitation.
+
+This resolves the open question below: coaching is not promoted in any form while the hold stands.
+
+### Open question this created (resolved by the final decision above)
 
 The owner's business rule is that coaching clients open a trading account through the owner (facts register, 2026-11-15). With the condition paused, the owner must decide one of:
 
@@ -82,12 +90,18 @@ Publishing coaching posts that omit a condition which is then applied in WhatsAp
 
 | Post | Zernio status | Account condition |
 |---|---|---|
-| A — Pengumuman | **Published** 16 Nov, https://www.threads.com/@themarketdoctrine88/post/DfzaqxeDucS | Still in the live post. Threads does not allow editing after publication; the only fix is to unpublish. Owner to decide. |
-| C — Untuk siapa | Draft (paused 18 Nov), was due Fri 20 Nov 9pm | Removed |
-| B — Akaun kecil ($150) | Draft (paused 18 Nov), was due Mon 23 Nov 9pm | Removed |
-| D — Apa jadi dalam sesi | Draft (paused 18 Nov), was due Fri 27 Nov 9pm | Removed |
+| A — Pengumuman | **Unpublished** 18 Nov 2026, 16:22 UTC, on the owner's instruction. Zernio status: cancelled. Was live at https://www.threads.com/@themarketdoctrine88/post/DfzaqxeDucS from 16 Nov 13:02 UTC. | Was in the live post for about 51 hours. Reach at removal (Zernio): 174 views, 4 likes, 3 replies. The one reply thread was a question about FX or stocks, which the owner had answered on 17 Nov; no unanswered enquiry was lost. |
+| C — Untuk siapa | Draft (held), was due Fri 20 Nov 9pm | Removed |
+| B — Akaun kecil | Draft (held), was due Mon 23 Nov 9pm. $150 minimum removed 18 Nov. | Removed |
+| D — Apa jadi dalam sesi | Draft (held), was due Fri 27 Nov 9pm | Removed |
 
-Current text of the paused drafts:
+Current text of the held drafts (Zernio, 18 Nov). None may be rescheduled until the commercial terms and permissions are reviewed.
+
+**Before any coaching post could be used again:**
+
+- **Disclosure.** Every published campaign item now carries a disclosure, but "Education je" would be inaccurate on a paid offer. A commercial disclosure for coaching is part of the commercial terms review.
+- **Draft B, "supaya kau berhenti top-up sebab blow".** It speaks to people who have blown accounts, inside a paid offer. Review it against the protections for traders rebuilding after losses (`AGENTS/_shared/guardrails.md` §7).
+- **Draft C, "Aku dah coach lebih 15 orang".** A claim about the owner; it needs a facts-register entry before use.
 
 ### C — Untuk siapa
 
@@ -107,14 +121,16 @@ Sentul, Wangsa Maju, Melawati. RM500 sebulan, 4 sesi.
 WhatsApp aku (link kat bio), type COACHING.
 ```
 
-### B — Akaun kecil ($150)
+### B — Akaun kecil
+
+Revised 18 Nov: the two paragraphs built on the $150 minimum were replaced; the rest is unchanged.
 
 ```
 "Modal kecil tak boleh trade gold."
 
-Boleh. Tapi ada lantai: $150. Minimum yang aku syorkan untuk mula.
+Boleh. Tapi akaun kecil kena pilih setup.
 
-Bukan sebab $150 selamat dari rugi. Sebab bawah tu, lot paling kecil pun dah terlalu besar untuk akaun kau.
+Lot paling kecil, 0.01, pun ada risk. SL jauh, risk dalam $ pun besar. Kalau risk tu lebih dari yang kau set untuk satu trade, skip setup tu.
 
 Aku tak janji untung. Aku ajar cara guna lot dan disiplin untuk akaun kecil, supaya kau berhenti top-up sebab blow.
 

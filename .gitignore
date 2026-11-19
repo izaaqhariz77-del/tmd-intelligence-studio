@@ -1,0 +1,11 @@
+# Prospect and enquiry records never belong in git (see PROSPECTS/README.md)
+PROSPECTS/private/
+
+# Secrets: never commit keys, tokens or passwords
+.env
+.env.*
+!.env.example
+
+# Operating system clutter
+.DS_Store
+Thumbs.db
