@@ -2,14 +2,14 @@
 
 **Agent:** TMD_CONTENT_LAB
 **Created:** 2026-11-18 · **Revised:** 2026-11-18 (owner decisions)
-**Status:** DRAFT — not created in Zernio; scheduled only on the owner's explicit approval
+**Status:** SCHEDULED — Zernio `6afe7f6cd7ba16ea80d74c74`, Mon 23 Nov 2026 9:00pm MYT (`2026-11-23T13:00:00Z`), combined version only. Scheduled 19 Nov under the owner's delegation; record in `CONTENT/threads/2026-11-19-delegated-schedule-23-nov-5-dec.md`. The optional reply is not scheduled.
 **Class:** Educational
 **Segment:** General
 **Voice:** Campaign (Manglish)
 **Channel / slot:** Threads `themarketdoctrine88`, **Mon 23 Nov 2026, 9:00pm MYT** (owner decision; the slot is empty since coaching post B was paused)
 **Sources:** Published 4 Nov 9pm post (https://www.threads.com/@themarketdoctrine88/post/DfUhKh9CP8V); published 6 Nov 3pm post (https://www.threads.com/@themarketdoctrine88/post/DfZBfMBDNBs); published 6 Nov 9pm post (https://www.threads.com/@themarketdoctrine88/post/DfZqky8DeDS); published Rule #16 (15 Nov, M5); owner decisions of 14 and 18 Nov (M5 is the execution standard)
 **Gate:** None. The disclosure line is provisional wording (`AGENTS/_shared/guardrails.md` §8).
-**Approval:** Reviewed by — · Approved by — · Date —
+**Approval:** Owner's standing delegation of 19 Nov 2026 (schedule drafts that pass all checks) · Scheduled by the assistant · 2026-11-19
 
 ---
 
