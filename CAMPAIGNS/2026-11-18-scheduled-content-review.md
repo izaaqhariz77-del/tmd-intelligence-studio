@@ -3,7 +3,7 @@
 **Account:** Threads `themarketdoctrine88` (via Zernio)
 **Reviewed:** 2026-11-18, 16:15 UTC, against the owner's decisions of 2026-11-18
 **Scope:** every post with status `scheduled`, plus the coaching posts
-**Updated:** 2026-11-18, 17:40 UTC, with the owner's second set of decisions. The tables above that section show the first review; the last section shows the current status.
+**Updated:** 2026-11-19, 02:45 UTC, with the owner's Stage 0 campaign decisions. Earlier sections are kept as the record; the last section shows the current status.
 
 ## Criteria
 
@@ -53,7 +53,7 @@ Reviewed only; not modified.
 | When | Post | Verdict |
 |---|---|---|
 | Sun 22 Nov 8:30am | Rule #23: revenge trading | Pass |
-| Sun 22 Nov 12:30pm | Question: first trading capital | Pass — see note 2 |
+| Sun 22 Nov 12:30pm | Question: first trading capital | Pass — see note 2. **Reworded 19 Nov** on the owner's decision (last section) |
 | Sun 22 Nov 5:00pm | Webinar, CTA DOCTRINE | Pass — see note 1 |
 | Mon 23 Nov 8:30am | Rule #24: mark last week's high/low | Pass |
 | Mon 23 Nov 12:30pm | Question: which session | Pass |
@@ -282,15 +282,17 @@ Changes from the first revised draft: the convention line was added; "kena sekal
 
 ### Scheduled posts that conflict with decision 5
 
-Scheduled in Zernio, each ends with "Jawab 3 soalan, aku bagi link." (the link depends on answering). Editing a scheduled post is an external action, so none has been changed.
+Each ended with "Jawab 3 soalan, aku bagi link." (the link depended on answering).
 
-| Post | Proposed change | Characters now → after |
+**Changed 19 Nov 2026, 02:27 UTC**, on the owner's approval of the edit ("Edit 3 scheduled posts"): the sentence is now "Aku hantar link community." Nothing else in the posts changed.
+
+| Post | Characters | Status |
 |---|---|---|
-| Thu 19 Nov, 9pm — community invitation (assistant's post) | "Jawab 3 soalan, aku bagi link." → "Aku hantar link community." | 486 → 482 |
-| Sun 22 Nov, 5pm — webinar post | Same | 290 → 286 |
-| Sat 28 Nov, 9pm — day 30 recap | Same | 495 → 491 |
+| Thu 19 Nov, 9pm — community invitation (assistant's post) | 486 → 482 | **Paused 19 Nov, 02:28 UTC**, on the owner's instruction. Stays a draft; the slot is skipped unless the owner approves the complete final text. |
+| Sun 22 Nov, 5pm — webinar post | 290 → 286 | Scheduled |
+| Sat 28 Nov, 9pm — day 30 recap | 495 → 491 | Scheduled |
 
-The 19 Nov post publishes at 9pm Malaysia time unless the edit is approved or the post is paused. The record of that post in `CAMPAIGNS/2026-11-60-rules-queue-14-21-nov.md` is updated once the change is made.
+The record of the 19 Nov post in `CAMPAIGNS/2026-11-60-rules-queue-14-21-nov.md` is updated to match.
 
 ### Rule #25 — the owner's MT5 check
 
@@ -306,7 +308,7 @@ MT5 → Market Watch → right-click the gold symbol you trade → Specification
 
 The pip line ("1 pip = $0.10") stays only if the contract size is 100 and the profit currency is USD.
 
-### Remaining blockers
+### Remaining blockers (as of 18 Nov; superseded by the last section)
 
 | Waiting on | Item | Deadline |
 |---|---|---|
@@ -317,6 +319,56 @@ The pip line ("1 pip = $0.10") stays only if the contract size is 100 and the pr
 | Owner | Explicit confirmation of the 24 Nov 9pm text | Before Tue 24 Nov, 9pm |
 | Owner | Approve the cuts to 25 Nov 9pm, 26 Nov 9pm and Rule #28 | Before each slot |
 | Owner | Review the 29 Nov–5 Dec batch, and the 28 Nov 9pm wording | By Fri 27 Nov |
+| Owner | Review and approve PR #4 | None |
+| Owner and a qualified reviewer | Privacy notice and retention periods; disclosure wording | Before either is used |
+| Owner and a qualified reviewer | Broker gate: entity, regulator, licence, compensation, jurisdictions, compliance review | Gate stays closed until done |
+| Owner and a qualified reviewer | Coaching: commercial terms, permissions, commercial disclosure | Hold stands until done |
+| Owner | How the dollar risk per trade is set (not recorded) | Needed for future risk content |
+
+## Owner's Stage 0 campaign decisions — 19 November 2026
+
+| # | Decision | Action taken | Status |
+|---|---|---|---|
+| 1 | Keep the 19 Nov 9pm post paused; skip the slot unless the owner approves the complete final text | None needed: paused since 02:28 UTC | Draft. Skipped unless approved before 9pm Malaysia time |
+| 2 | Reword the 22 Nov 12:30pm question to "Apa perkara paling penting yang kau belajar selepas trade pertama kau?" | Updated in Zernio at 02:41 UTC, with the disclosure line (below) | Scheduled, Sun 22 Nov 12:30pm |
+| 3 | Prepare the 1% correction and the M1 clarification for review | Drafts kept for review; not created in Zernio | Awaiting the owner's review |
+| 4 | Keep Rule #25 paused pending the owner's MT5 check | No change | Draft |
+| 5 | Keep all other pending posts as drafts until individually approved | No change: 24 Nov 9pm, 25 Nov 9pm, 26 Nov 9pm, Rule #28 | Drafts |
+| 6 | Keep the 29 Nov–5 Dec batch as drafts | No change | Drafts, not in Zernio |
+| 7 | Coaching stays paused; the broker gate stays closed; no automatic publication, scheduling, merge or solicitation | No change | In force |
+
+**Sun 22 Nov, 12:30pm — before and after**
+
+Before (136 characters):
+
+```
+Modal pertama kau masuk trading dulu berapa?
+
+Jujur je. Takde siapa judge.
+
+Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.
+```
+
+After (132 characters; the follow-up line "Jujur je. Takde siapa judge." belonged to the old question and was dropped):
+
+```
+Apa perkara paling penting yang kau belajar selepas trade pertama kau?
+
+Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.
+```
+
+### Remaining blockers
+
+| Waiting on | Item | Deadline |
+|---|---|---|
+| Owner | Approve the complete final text of the 19 Nov 9pm post, or the slot is skipped | Before Thu 19 Nov, 9pm |
+| Owner | Approve the 1% correction for Fri 20 Nov 9pm | Before Fri 20 Nov, 9pm |
+| Owner | Approve the M1 clarification for Mon 23 Nov 9pm | Before Mon 23 Nov, 9pm |
+| Owner | MT5 check, then approve Rule #25 | Before Tue 24 Nov, 8:30am |
+| Owner | Explicit confirmation of the 24 Nov 9pm text | Before Tue 24 Nov, 9pm |
+| Owner | Approve the cuts to 25 Nov 9pm, 26 Nov 9pm and Rule #28, each individually | Before each slot |
+| Owner | If Rule #25 does not run, change "29 rule dah keluar" in the 28 Nov 9pm post | Before Sat 28 Nov, 9pm |
+| Owner | Review the 29 Nov–5 Dec batch | By Fri 27 Nov |
 | Owner | Review and approve PR #4 | None |
 | Owner and a qualified reviewer | Privacy notice and retention periods; disclosure wording | Before either is used |
 | Owner and a qualified reviewer | Broker gate: entity, regulator, licence, compensation, jurisdictions, compliance review | Gate stays closed until done |

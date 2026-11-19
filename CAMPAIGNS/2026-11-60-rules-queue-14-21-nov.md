@@ -3,6 +3,7 @@
 **Account:** Threads `themarketdoctrine88`
 **Scheduled through:** Zernio, on 2026-11-14
 **Status:** 22 posts scheduled. Written by AI in the owner's established voice and slot pattern; owner to review rule content.
+**Update, 19 Nov 2026:** since 18 Nov every scheduled post ends with the disclosure line. The Thu 19 Nov 9pm post below was reworded on 19 Nov and then paused; it publishes only if the owner approves its complete final text. Details: `CAMPAIGNS/2026-11-18-scheduled-content-review.md`.
 
 ## Slot pattern (Malaysia time)
 
@@ -316,7 +317,9 @@ Rule #20/60
 
 ### Thu 19 Nov 9:00pm — Evening (community)
 
-Scheduled (UTC): `2026-11-19T13:00:00Z` · 424 characters
+Slot (UTC): `2026-11-19T13:00:00Z` · **Paused 19 Nov 2026, 02:28 UTC** (draft in Zernio) · 482 characters as now worded
+
+Changed 19 Nov on the owner's approval: "Jawab 3 soalan, aku bagi link." became "Aku hantar link community.", and the disclosure line was added on 18 Nov. Current text:
 
 ```
 Aku tak cari ramai. Aku cari yang buat kerja.
@@ -333,7 +336,9 @@ Yang aku minta:
 • Buat 1 latihan seminggu
 • Join webinar, atau tengok recap
 
-Rasa ni tempat kau? WhatsApp aku (link kat bio), type DOCTRINE. Jawab 3 soalan, aku bagi link.
+Rasa ni tempat kau? WhatsApp aku (link kat bio), type DOCTRINE. Aku hantar link community.
+
+Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.
 ```
 
 ### Fri 20 Nov 8:30am — Hook #21
