@@ -3,7 +3,7 @@
 **Account:** Threads `themarketdoctrine88` (via Zernio)
 **Reviewed:** 2026-11-18, 16:15 UTC, against the owner's decisions of 2026-11-18
 **Scope:** every post with status `scheduled`, plus the coaching posts
-**Updated:** 2026-11-19, 03:35 UTC: disclosure wording changed to "Education je" (last section). Earlier sections are kept as the record; post texts quoted in them show the wording at the time.
+**Updated:** 2026-11-19, 03:55 UTC: owner approvals of 19 Nov recorded (last section). Earlier sections are kept as the record; post texts quoted in them show the wording at the time.
 
 ## Criteria
 
@@ -361,8 +361,8 @@ Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.
 
 | Waiting on | Item | Deadline |
 |---|---|---|
-| Owner | Approve the complete final text of the 19 Nov 9pm post, or the slot is skipped | Before Thu 19 Nov, 9pm |
-| Owner | Approve the 1% correction for Fri 20 Nov 9pm | Before Fri 20 Nov, 9pm |
+| — | ~~Approve the complete final text of the 19 Nov 9pm post~~ **Done 19 Nov:** approved and scheduled | — |
+| — | ~~Approve the 1% correction for Fri 20 Nov 9pm~~ **Done 19 Nov:** approved and scheduled | — |
 | Owner | Approve the M1 clarification for Mon 23 Nov 9pm | Before Mon 23 Nov, 9pm |
 | Owner | MT5 check, then approve Rule #25 | Before Tue 24 Nov, 8:30am |
 | Owner | Explicit confirmation of the 24 Nov 9pm text | Before Tue 24 Nov, 9pm |
@@ -385,11 +385,21 @@ Post texts quoted earlier in this file show the wording at the time. Current len
 
 | Post | Status | Characters now |
 |---|---|---|
-| Thu 19 Nov 9pm, community invitation | Paused; skipped unless the complete final text is approved | 484 |
+| Thu 19 Nov 9pm, community invitation | Approved and scheduled (see below) | 484 |
 | Tue 24 Nov 8:30am, Rule #25 | Draft; MT5 check pending | 496 |
-| Tue 24 Nov 9pm, week events | Draft; explicit confirmation pending | 498 |
+| Tue 24 Nov 9pm, week events | Draft; explicit confirmation pending | 500 (see below) |
 | Wed 25 Nov 9pm, news protocol | Draft | 489 |
 | Thu 26 Nov 9pm, Thanksgiving | Draft | 499 |
 | Fri 27 Nov 8:30am, Rule #28 | Draft | 495 |
 
 The 24 Nov 9pm draft also says "Community edukasi:" in its call-to-action line. Whether that becomes "Community education:" is for the owner to decide when confirming that post.
+
+## Owner approvals — 19 November 2026
+
+| Item | Approved | Action taken (UTC) | Status |
+|---|---|---|---|
+| Thu 19 Nov 9pm, community invitation (484 characters) | The complete final text, as shown to the owner | Moved from draft back to scheduled, 03:50 | Scheduled, Thu 19 Nov 9pm Malaysia time |
+| 1% correction for Rules #9 and #13 (489 characters) | The complete final text, as shown to the owner | Created in Zernio and scheduled, 03:50 (post `6afe721732bb0999f4d2f2fa`) | Scheduled, Fri 20 Nov 9pm Malaysia time |
+| 24 Nov 9pm draft: "Community edukasi:" → "Community education:" | The wording change | Updated, 03:50 | Still a draft: the whole post still needs the owner's explicit confirmation. Now exactly 500 characters, the Threads limit; any further change needs a cut. |
+
+The optional replies under the original Rule #9 and #13 posts were not part of the approval and have not been posted.
