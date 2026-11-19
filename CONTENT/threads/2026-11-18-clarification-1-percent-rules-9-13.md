@@ -22,7 +22,7 @@
 
 Both conflict with the owner's statement that his system has no universal fixed-percentage rule. The rest of both posts stays valid: the lot formula in Rule #9 and the drawdown maths in Rule #13 (both recalculated).
 
-## Post for Fri 20 Nov, 9pm (487 characters)
+## Post for Fri 20 Nov, 9pm (489 characters)
 
 ```
 Pembetulan: Rule #9 dan #13, pasal 1%.
@@ -39,27 +39,27 @@ Yang tak berubah:
 
 Ada yang tak jelas? Tanya kat komen.
 
-Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.
+Education je. Bukan nasihat kewangan. Trading ada risiko rugi.
 ```
 
 ## Optional replies under the original posts
 
 Threads posts cannot be edited after publication. A reply under each original keeps the correction next to it.
 
-**Under Rule #9 (256 characters)**
+**Under Rule #9 (258 characters)**
 
 ```
 Pembetulan: 1% dalam contoh ni cuma untuk tunjuk cara kira. Dalam sistem aku takde % tetap untuk semua orang. Yang tetap: risk dalam $ sebelum entry, lot ikut jarak SL. Formula atas tak berubah.
 
-Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.
+Education je. Bukan nasihat kewangan. Trading ada risiko rugi.
 ```
 
-**Under Rule #13 (258 characters)**
+**Under Rule #13 (260 characters)**
 
 ```
 Pembetulan: "Risk 1% per trade" dalam post ni bukan rule sistem aku. Takde % tetap untuk semua orang. Risk kira dalam $ sebelum entry, lot ikut jarak SL (Rule #9). Maths drawdown atas tetap betul.
 
-Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.
+Education je. Bukan nasihat kewangan. Trading ada risiko rugi.
 ```
 
 ## Notes for the owner
@@ -73,5 +73,5 @@ Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.
 ## Checks
 
 Shared checklist: PASS
-Agent checks: PASS — post 487, replies 256 and 258 characters; disclosure in all three; no fixed %, thresholds or calls to action other than "tanya kat komen"; Rule #9 and #13 maths re-checked.
+Agent checks: PASS — post 489, replies 258 and 260 characters; disclosure in all three; no fixed %, thresholds or calls to action other than "tanya kat komen"; Rule #9 and #13 maths re-checked.
 Needs the owner: approve the post (and the replies, if wanted) for Fri 20 Nov, 9pm.

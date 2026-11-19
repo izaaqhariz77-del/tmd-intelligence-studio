@@ -21,7 +21,7 @@
 | 6 Nov, 3pm (NFP live) | "Baru cari setup: H4 zone, breakout M15, entry M1" |
 | 6 Nov, 9pm (community invitation) | "…webinar… 8 Nov: cara aku precise entry zone M1." |
 
-## Post for Mon 23 Nov, 9pm — combined version (382 characters)
+## Post for Mon 23 Nov, 9pm — combined version (384 characters)
 
 ```
 Penjelasan: step entry dalam post 4 dan 6 Nov.
@@ -35,15 +35,15 @@ Standard execution aku sekarang M5 (Rule #16):
 
 Mana-mana post awal yang sebut entry M1, baca sebagai M5.
 
-Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.
+Education je. Bukan nasihat kewangan. Trading ada risiko rugi.
 ```
 
-## Optional reply under each of the three posts (182 characters)
+## Optional reply under each of the three posts (184 characters)
 
 ```
 Penjelasan: standard execution aku sekarang M5, bukan M1. H4 zone, M15 breakout, entry lepas candle M5 close (Rule #16).
 
-Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.
+Education je. Bukan nasihat kewangan. Trading ada risiko rugi.
 ```
 
 ## Notes for the owner
@@ -56,5 +56,5 @@ Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.
 ## Checks
 
 Shared checklist: PASS
-Agent checks: PASS — post 382 characters, reply 182; disclosure in both; M5 stated as the standard; M1 appears only as the quoted old wording.
+Agent checks: PASS — post 384 characters, reply 184; disclosure in both; M5 stated as the standard; M1 appears only as the quoted old wording.
 Needs the owner: approve the post (and the replies, if wanted) for Mon 23 Nov, 9pm; say whether the community needs its own note.
