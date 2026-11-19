@@ -403,3 +403,71 @@ The 24 Nov 9pm draft also says "Community edukasi:" in its call-to-action line. 
 | 24 Nov 9pm draft: "Community edukasi:" → "Community education:" | The wording change | Updated, 03:50 | Still a draft: the whole post still needs the owner's explicit confirmation. Now exactly 500 characters, the Threads limit; any further change needs a cut. |
 
 The optional replies under the original Rule #9 and #13 posts were not part of the approval and have not been posted.
+
+## Owner delegation and scheduling — 19 November 2026
+
+**Decision (owner, 19 Nov):** "Buatkan semua untuk aku, aku tolong fikir je. Execution kau." Asked how the campaign drafts still awaiting approval should go out (24, 25 and 26 Nov 9pm; Rule #28; the M1 clarification; the 29 Nov–5 Dec batch), the owner chose:
+
+> **Schedule terus.** Aku schedule terus draft yang lulus semua check: had 500 char, disclaimer, M5, takde % tetap, takde CTA broker, deposit atau coaching. Lepas schedule aku hantar text penuh. Kau boleh suruh pause bila-bila. Rule #25 tetap tunggu MT5 kau. Rule #31–#36 keluar macam draft sekarang.
+
+The owner also allowed, without asking first: merging PR #4 once the repository is private and every check passes; a separate branch for the Phase 2 strategy proposal and decision record once private; drafting each following week's batch (Rule #37 onward), which then goes out under the decision above; and a Saturday performance record from Zernio (read only, totals only, no personal data).
+
+`AGENTS/_shared/approval-workflow.md` still states per-item approval. It has not been changed: a change to the approval rules needs the owner's own approval of that wording.
+
+### Scheduled, 19 Nov 2026, 04:46–04:49 UTC
+
+| Slot (MYT) | Post | Action | Zernio | Characters |
+|---|---|---|---|---|
+| Mon 23 Nov 9pm | M1 clarification (combined version) | Created | `6afe7f6cd7ba16ea80d74c74` | 384 |
+| Tue 24 Nov 9pm | Week events | Draft → scheduled; text as approved on 19 Nov | `6afd880e387e3cf74432b08e` | 500 |
+| Wed 25 Nov 9pm | News protocol | Edited (below); draft → scheduled | `6afd8815fb5d326b21e560fe` | 489 |
+| Thu 26 Nov 9pm | Thanksgiving | Edited (below); draft → scheduled | `6afd881ce01190a7a359be7a` | 470 |
+| Fri 27 Nov 8:30am | Rule #28 | Draft → scheduled; text unchanged | `6afd8820387e3cf74432b0e9` | 495 |
+| Fri 27 Nov 9pm | End of week (new) | Created; the slot was empty after coaching post D was held | `6afe7f73d7ba16ea80d74c82` | 475 |
+| Sun 29 Nov – Sat 5 Dec | Rules #30–#36 batch, 21 posts | Created | Listed on the working branch | 97–497 |
+
+Every text and ID: `CONTENT/threads/2026-11-19-delegated-schedule-23-nov-5-dec.md` on branch `claude/peaceful-mayer-owth6t`. Campaign drafts stay out of this PR.
+
+After scheduling, Zernio holds 48 scheduled posts from Thu 19 Nov 9pm to Sat 5 Dec 9pm. The one empty slot is Tue 24 Nov 8:30am (Rule #25).
+
+### Two edits before scheduling
+
+| Post | Before | After | Reason |
+|---|---|---|---|
+| Wed 25 Nov 9pm | "2. Position yang ada? SL dah set. Jangan alih." · "Tak entry pun takpe. Market buka lagi esok." | "2. Position terbuka? Close, atau pastikan SL dah kat BE sebelum 9:30." · "Tak entry pun takpe." | Published Rule #7 (6 Nov) says "Ada position terbuka? Close, atau pastikan SL dah kat BE." The draft contradicted it; the published 17 Nov post and the scheduled 4 Dec post follow Rule #7. The second cut keeps the post at 489 characters. |
+| Thu 26 Nov 9pm | "Hari macam ni, aku buat satu je: kecilkan lot separuh, atau langsung tak trade." | "Hari macam ni, aku kecilkan lot, atau rehat terus." | "Separuh" is a fixed fraction the owner never stated. The new line follows the owner-approved wording in the earlier 24 Nov draft ("Khamis, lot kecilkan atau rehat terus."). |
+
+### New post — Fri 27 Nov 9pm (475 characters)
+
+```
+Jumaat malam. Minggu ni akaun kau merah sikit.
+
+Market nak tutup. Kau rasa kena cover sebelum weekend, supaya minggu ni tutup hijau.
+
+Benda yang orang jarang cakap: market tak tahu minggu kau merah. Minggu tu cuma kotak dalam kalendar kau.
+
+Trade sebab nak tutup hijau bukan trade dari plan. Takde setup, takde trade (Rule #27).
+
+Minggu merah tak perlu dibetulkan malam ni. Dia perlu dibaca esok, dalam journal.
+
+Education je. Bukan nasihat kewangan. Trading ada risiko rugi.
+```
+
+It avoids the weekend-gap topic of Rule #28 (the same morning) and leads into Rule #29 (Saturday review, the next morning) without naming it.
+
+### Not scheduled
+
+- **Rule #25**, Tue 24 Nov 8:30am: waits for the owner's MT5 check. If the slot passes without it, the 28 Nov 9pm line "29 rule dah keluar." will be untrue. The assistant will then reword that line without a count and report the change.
+- **Coaching posts C, B and D**: hold.
+- **October drafts d05, d09 and d12**: superseded; d12 uses an M1 entry.
+- **Optional replies** to the 1% correction: not approved.
+
+### Remaining blockers
+
+| Item | Owner | Needed by |
+|---|---|---|
+| XAUUSD contract size, tick size and tick value, read from MT5 Specification | Owner | Before Tue 24 Nov 8:30am |
+| Repository visibility set to private | Owner | Before PR #4 is merged and the Phase 2 branch is created |
+| Whether to write the delegation into `AGENTS/_shared/approval-workflow.md` | Owner | Any time; until then that file states per-item approval |
+| Qualified Malaysian privacy review of the notice and retention proposal | Owner | Before any live data processing |
+
