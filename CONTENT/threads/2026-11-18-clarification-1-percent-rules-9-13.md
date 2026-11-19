@@ -2,14 +2,14 @@
 
 **Agent:** TMD_CONTENT_LAB
 **Created:** 2026-11-18 · **Revised:** 2026-11-18 (owner decisions)
-**Status:** DRAFT — not created in Zernio; scheduled only on the owner's explicit approval
+**Status:** SCHEDULED — approved by the owner on 19 Nov 2026; Zernio post `6afe721732bb0999f4d2f2fa`, Fri 20 Nov 2026, 9:00pm MYT
 **Class:** Educational
 **Segment:** General
 **Voice:** Campaign (Manglish)
 **Channel / slot:** Threads `themarketdoctrine88`, **Fri 20 Nov 2026, 9:00pm MYT** (owner decision; the slot is empty since coaching post C was paused)
 **Sources:** Published Rule #9 (8 Nov, https://www.threads.com/@themarketdoctrine88/post/Dfd5xWwDOR4); published Rule #13 (12 Nov, https://www.threads.com/@themarketdoctrine88/post/DfoNCJUiv8S); published Rule #10 (9 Nov); owner statement of 15 Nov (no universal 1% rule); owner decisions of 18 Nov
 **Gate:** None. The disclosure line is provisional wording (`AGENTS/_shared/guardrails.md` §8).
-**Approval:** Reviewed by — · Approved by — · Date —
+**Approval:** Reviewed by owner · Approved by owner (main post only; replies not approved) · Date 2026-11-19
 
 ---
 
