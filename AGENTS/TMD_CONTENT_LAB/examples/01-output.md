@@ -13,7 +13,7 @@
 
 ---
 
-## Post (491 characters)
+## Post (493 characters)
 
 ```
 Market belum buka. Tapi kau dah ada bias: "Isnin ni gold naik."
@@ -29,7 +29,7 @@ Takde dalam plan, takde entry.
 
 Plan Isnin kau dah tulis, atau masih dalam kepala?
 
-Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.
+Education je. Bukan nasihat kewangan. Trading ada risiko rugi.
 ```
 
 ## Notes for the owner
@@ -43,5 +43,5 @@ Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.
 ## Checks
 
 Shared checklist: PASS
-Agent checks: PASS — 491 characters; M5; no fixed %, thresholds or calls to action; Rule #30 matches 29 Nov.
+Agent checks: PASS — 493 characters; M5; no fixed %, thresholds or calls to action; Rule #30 matches 29 Nov.
 Needs the owner: confirm Rule #30's topic fits the series plan.

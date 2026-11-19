@@ -99,7 +99,7 @@ Current text of the held drafts (Zernio, 18 Nov). None may be rescheduled until 
 
 **Before any coaching post could be used again:**
 
-- **Disclosure.** Every published campaign item now carries a disclosure, but "Edukasi je" would be inaccurate on a paid offer. A commercial disclosure for coaching is part of the commercial terms review.
+- **Disclosure.** Every published campaign item now carries a disclosure, but "Education je" would be inaccurate on a paid offer. A commercial disclosure for coaching is part of the commercial terms review.
 - **Draft B, "supaya kau berhenti top-up sebab blow".** It speaks to people who have blown accounts, inside a paid offer. Review it against the protections for traders rebuilding after losses (`AGENTS/_shared/guardrails.md` §7).
 - **Draft C, "Aku dah coach lebih 15 orang".** A claim about the owner; it needs a facts-register entry before use.
 

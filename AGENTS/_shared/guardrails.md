@@ -1,6 +1,6 @@
 # TMD Agent Guardrails
 
-**Version:** 1.1 · 2026-11-18 (disclosure decision)
+**Version:** 1.2 · 2026-11-19 (disclosure wording)
 **Applies to:** every TMD agent and skill. When an agent's own instructions and this file disagree, the stricter rule wins. When unsure, stop and ask the owner.
 
 The brand is exclusively **THE MARKET DOCTRINE (TMD)**. No other brand name appears in any output.
@@ -92,10 +92,10 @@ Keep the two segments separate in content strategy, lead qualification and analy
 ## 8. Disclaimers
 
 - **Institutional English:** use `BRAND/brand-identity.md` §9.
-- **Campaign Manglish (provisional wording):** `Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.`
+- **Campaign Manglish (provisional wording):** `Education je. Bukan nasihat kewangan. Trading ada risiko rugi.` In use from 19 Nov 2026 (owner); posts published earlier carry "Edukasi je".
 - **Every published campaign item carries a disclosure. No exception** (owner decision, 2026-11-18). This includes one-line questions, replies and clarifications. The line counts inside the 500-character limit.
 - The wording is **provisional**. It is not proof of regulatory compliance and stays under review (`BRAND/brand-identity.md` §8.2).
-- "Edukasi je" does not fit a paid offer. Commercial posts (coaching) need their own disclosure, settled in the commercial terms review. Coaching is on hold.
+- "Education je" does not fit a paid offer. Commercial posts (coaching) need their own disclosure, settled in the commercial terms review. Coaching is on hold.
 
 ## 9. Voices
 

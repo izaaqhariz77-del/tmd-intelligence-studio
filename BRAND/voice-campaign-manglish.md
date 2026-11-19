@@ -1,6 +1,6 @@
 # Campaign Voice — Manglish (60 Rules)
 
-**Version:** 1.1 · 2026-11-18 (disclosure decision)
+**Version:** 1.2 · 2026-11-19 (code-switching; disclosure wording)
 **Scope:** the 60 Rules campaign on Threads `themarketdoctrine88`, until the campaign ends on 29 Dec 2026. Institutional TMD content follows `BRAND/tone-of-voice.md`; this file does not change it.
 **Basis:** the voice as published on the account between 30 Oct and 18 Nov 2026.
 
@@ -13,6 +13,8 @@
 ## Language
 
 - Malay base, with trading terms in English: SL, TP, BE, lot, entry, setup, breakout, session, spread, journal, R.
+- Code-switch the way the owner speaks: English words wherever they come naturally to him, not only trading terms (for example "education", "plan", "community", "free"). Do not force formal Malay for a word he would say in English (owner, 19 Nov 2026).
+- Risk warnings stay in clear Malay: "Bukan nasihat kewangan. Trading ada risiko rugi."
 - Everyday connectors: je, tu, dah, takde, kat, nak, macam, sebab, lepas, baru.
 - Short lines. One thought per line. White space between ideas.
 - No emoji. No hashtags in the post body.
@@ -55,14 +57,15 @@
 
 ## Length
 
-500 characters maximum per Threads post, disclosure included. The disclosure and the blank line before it take 62 characters, leaving 438 for the post itself. Published posts mostly run 300 to 470 characters before the disclosure.
+500 characters maximum per Threads post, disclosure included. The disclosure and the blank line before it take 64 characters, leaving 436 for the post itself. Published posts mostly run 300 to 470 characters before the disclosure.
 
 ## Disclosure
 
 On **every** published campaign post, including one-line questions and replies (owner decision, 18 Nov 2026; no exception):
 
-> Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.
+> Education je. Bukan nasihat kewangan. Trading ada risiko rugi.
 
 - Last line of the post, after a blank line.
+- Changed from "Edukasi je" to "Education je" on 19 Nov 2026 (owner). Posts published before then keep the old wording.
 - Provisional wording. It is not proof of regulatory compliance and stays under review.
 - Not for paid offers: coaching posts would need a commercial disclosure. Coaching is on hold.

@@ -317,9 +317,9 @@ Rule #20/60
 
 ### Thu 19 Nov 9:00pm — Evening (community)
 
-Slot (UTC): `2026-11-19T13:00:00Z` · **Paused 19 Nov 2026, 02:28 UTC** (draft in Zernio) · 482 characters as now worded
+Slot (UTC): `2026-11-19T13:00:00Z` · **Paused 19 Nov 2026, 02:28 UTC** (draft in Zernio) · 484 characters as now worded
 
-Changed 19 Nov on the owner's approval: "Jawab 3 soalan, aku bagi link." became "Aku hantar link community.", and the disclosure line was added on 18 Nov. Current text:
+Changed 19 Nov on the owner's approval: "Jawab 3 soalan, aku bagi link." became "Aku hantar link community.", the disclosure line was added on 18 Nov, and its wording became "Education je." on 19 Nov. Current text:
 
 ```
 Aku tak cari ramai. Aku cari yang buat kerja.
@@ -338,7 +338,7 @@ Yang aku minta:
 
 Rasa ni tempat kau? WhatsApp aku (link kat bio), type DOCTRINE. Aku hantar link community.
 
-Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.
+Education je. Bukan nasihat kewangan. Trading ada risiko rugi.
 ```
 
 ### Fri 20 Nov 8:30am — Hook #21

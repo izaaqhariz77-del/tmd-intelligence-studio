@@ -3,7 +3,7 @@
 **Account:** Threads `themarketdoctrine88` (via Zernio)
 **Reviewed:** 2026-11-18, 16:15 UTC, against the owner's decisions of 2026-11-18
 **Scope:** every post with status `scheduled`, plus the coaching posts
-**Updated:** 2026-11-19, 02:45 UTC, with the owner's Stage 0 campaign decisions. Earlier sections are kept as the record; the last section shows the current status.
+**Updated:** 2026-11-19, 03:35 UTC: disclosure wording changed to "Education je" (last section). Earlier sections are kept as the record; post texts quoted in them show the wording at the time.
 
 ## Criteria
 
@@ -374,3 +374,22 @@ Edukasi je. Bukan nasihat kewangan. Trading ada risiko rugi.
 | Owner and a qualified reviewer | Broker gate: entity, regulator, licence, compensation, jurisdictions, compliance review | Gate stays closed until done |
 | Owner and a qualified reviewer | Coaching: commercial terms, permissions, commercial disclosure | Hold stands until done |
 | Owner | How the dollar risk per trade is set (not recorded) | Needed for future risk content |
+
+## Disclosure wording and campaign voice — 19 November 2026
+
+**Decision (owner, 19 Nov):** the disclosure reads **"Education je. Bukan nasihat kewangan. Trading ada risiko rugi."**, applied everywhere at once (option A). The campaign voice guide now follows the owner's natural Malay–English mix; risk warnings stay in clear Malay.
+
+**Done in Zernio, 19 Nov, 03:28–03:29 UTC:** "Edukasi je." became "Education je." on all 20 scheduled posts and all 6 campaign drafts (19 Nov 9pm, Rule #25, 24 Nov 9pm, 25 Nov 9pm, 26 Nov 9pm, Rule #28). Nothing else changed: times, statuses and the rest of the text are as before. Each post is 2 characters longer; the longest is 499. Posts published before the change keep "Edukasi je".
+
+Post texts quoted earlier in this file show the wording at the time. Current lengths of the items still awaiting the owner:
+
+| Post | Status | Characters now |
+|---|---|---|
+| Thu 19 Nov 9pm, community invitation | Paused; skipped unless the complete final text is approved | 484 |
+| Tue 24 Nov 8:30am, Rule #25 | Draft; MT5 check pending | 496 |
+| Tue 24 Nov 9pm, week events | Draft; explicit confirmation pending | 498 |
+| Wed 25 Nov 9pm, news protocol | Draft | 489 |
+| Thu 26 Nov 9pm, Thanksgiving | Draft | 499 |
+| Fri 27 Nov 8:30am, Rule #28 | Draft | 495 |
+
+The 24 Nov 9pm draft also says "Community edukasi:" in its call-to-action line. Whether that becomes "Community education:" is for the owner to decide when confirming that post.
