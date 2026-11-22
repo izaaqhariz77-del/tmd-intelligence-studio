@@ -46,7 +46,7 @@ Screenshots stay out of this repository; it is public. They are uploaded to Zern
 
 ## Example (placeholders in brackets; not real results)
 
-406 characters.
+409 characters.
 
 ```
 Minggu ni [3] daripada [7] trade aku rugi. Ni journal penuh.
@@ -54,7 +54,7 @@ Minggu ni [3] daripada [7] trade aku rugi. Ni journal penuh.
 Hasil: [+X]R.
 
 Menang: [2] ikut plan. [2] aku close awal, langgar Rule #21.
-Kalah: [2] kos biasa. [1] entry sebelum candle M5 close, langgar Rule #16.
+Kalah: [2] kos biasa. [1] entry sebelum breakout M15 close, langgar Rule #16.
 
 Gambar: setiap trade, termasuk yang rugi.
 
