@@ -22,7 +22,7 @@ The owner chose, on 19 Nov 2026, for the unapproved campaign drafts (24/25/26 No
 
 - 500 characters or fewer, disclosure included
 - Ends with the disclosure `Education je. Bukan nasihat kewangan. Trading ada risiko rugi.` after a blank line
-- Entry confirmation is M5; "M1" appears only in the M1 clarification, which corrects it
+- Entries on M5; "M1" appears only in the M1 clarification, which corrects it. From 22 Nov: no post makes an M5 candle close a condition for entry (owner's Breakout Signature rule)
 - No fixed-percentage risk, deposit or capital figure (the 70% on 1 Dec is a hypothetical win rate)
 - No broker, account-opening, deposit, referral or coaching call to action; only the free DOCTRINE community, never conditional on the optional questions
 - Rule numbers match dates (Rule #N on 31 Oct + N − 1); rules referenced match their published or scheduled wording (#7, #9, #16, #18, #19, #26, #27, #30)
@@ -42,13 +42,13 @@ The owner chose, on 19 Nov 2026, for the unapproved campaign drafts (24/25/26 No
 
 | Day | Slot (MYT) | Post | Chars | Zernio |
 |---|---|---|---|---|
-| Mon 23 Nov | 9pm | Clarification — M1 entry in the 4 and 6 Nov posts | 384 | `6afe7f6cd7ba16ea80d74c74` |
+| Mon 23 Nov | 9pm | Clarification — M1 entry in the 4 and 6 Nov posts | 409 | `6afe7f6cd7ba16ea80d74c74` |
 | Tue 24 Nov | 9pm | Week ahead — Wednesday releases and Thanksgiving | 500 | `6afd880e387e3cf74432b08e` |
 | Wed 25 Nov | 9pm | Pre-release briefing — GDP, PCE and durable goods | 489 | `6afd8815fb5d326b21e560fe` |
 | Thu 26 Nov | 9pm | Thanksgiving — thin volume | 470 | `6afd881ce01190a7a359be7a` |
 | Fri 27 Nov | 8:30am | Rule #28 — weekend gap risk | 495 | `6afd8820387e3cf74432b0e9` |
 | Fri 27 Nov | 9pm | Evening — a red week is no reason to trade (new) | 475 | `6afe7f73d7ba16ea80d74c82` |
-| Sun 29 Nov | 8:30am | Rule #30 — plan before the session | 493 | `6afe7f76cb7ff764fdfe9dd3` |
+| Sun 29 Nov | 8:30am | Rule #30 — plan before the session | 481 | `6afe7f76cb7ff764fdfe9dd3` |
 | Sun 29 Nov | 12:30pm | Question | 133 | `6afe7f780a7c003243ec9604` |
 | Sun 29 Nov | 5pm | Webinar post (webinar 9pm) | 366 | `6afe7f7bc457f20350b28e0c` |
 | Mon 30 Nov | 8:30am | Rule #31 — lot does not rise because you won | 496 | `6afe7f7e791dfc4cd354478f` |
@@ -57,7 +57,7 @@ The owner chose, on 19 Nov 2026, for the unapproved campaign drafts (24/25/26 No
 | Tue 1 Dec | 8:30am | Rule #32 — screenshot before entry and after close | 472 | `6afe7f86cb7ff764fdfe9dfc` |
 | Tue 1 Dec | 12:30pm | Question | 124 | `6afe7f88d7ba16ea80d74cc3` |
 | Tue 1 Dec | 9pm | Insight — win rate without R | 440 | `6afe7f8b791dfc4cd35447ac` |
-| Wed 2 Dec | 8:30am | Rule #33 — label every loss | 431 | `6afe7f8e791dfc4cd35447c5` |
+| Wed 2 Dec | 8:30am | Rule #33 — label every loss | 434 | `6afe7f8e791dfc4cd35447c5` |
 | Wed 2 Dec | 12:30pm | Question | 106 | `6afe7f95cb7ff764fdfe9e2e` |
 | Wed 2 Dec | 9pm | Community invitation | 409 | `6afe7f97cb7ff764fdfe9e3c` |
 | Thu 3 Dec | 8:30am | Rule #34 — entries come from your own plan | 455 | `6afe7f9ad7ba16ea80d74cf2` |
@@ -76,19 +76,19 @@ Empty slot: **Tue 24 Nov, 8:30am** (Rule #25, waiting for MT5). Sundays have no 
 
 ### Mon 23 Nov, 9pm — Clarification — M1 entry in the 4 and 6 Nov posts
 
-Zernio `6afe7f6cd7ba16ea80d74c74` · `2026-11-23T13:00:00Z` · 384 characters · tags `tmd, v3, d24, malam, penjelasan`
+Zernio `6afe7f6cd7ba16ea80d74c74` · `2026-11-23T13:00:00Z` · 409 characters · tags `tmd, v3, d24, malam, penjelasan`
 
-Combined M1 clarification (version B), unchanged.
+Combined M1 clarification. **Corrected 22 Nov 2026 (owner approved):** the M5 step now matches the owner's execution rule (entry on rejection at the M5 zone, no candle-close wait). Held as a draft on 22 Nov until approved, then rescheduled for the same slot.
 
 ```
 Penjelasan: step entry dalam post 4 dan 6 Nov.
 
 Post tu sebut H4 zone, M15 breakout, M1 entry.
 
-Standard execution aku sekarang M5 (Rule #16):
-1. H4: tanda zone.
-2. M15: tunggu breakout dalam zone tu.
-3. M5: entry lepas candle M5 close. Wick bukan confirmation.
+Timeframe execution aku sekarang M5, bukan M1:
+1. HTF: tanda struktur, tunggu candle close kat luar.
+2. M15: breakout baru, candle close kat luar.
+3. M5: entry kat zone M5 bila harga reject.
 
 Mana-mana post awal yang sebut entry M1, baca sebagai M5.
 
@@ -199,7 +199,9 @@ Education je. Bukan nasihat kewangan. Trading ada risiko rugi.
 
 ### Sun 29 Nov, 8:30am — Rule #30 — plan before the session
 
-Zernio `6afe7f76cb7ff764fdfe9dd3` · `2026-11-29T00:30:00Z` · 493 characters · tags `tmd, v3, d30, pagi`
+Zernio `6afe7f76cb7ff764fdfe9dd3` · `2026-11-29T00:30:00Z` · 481 characters · tags `tmd, v3, d30, pagi`
+
+Corrected 22 Nov 2026 (owner approved): "(candle M5 close, bukan wick)" became "sebelum aku entry".
 
 ```
 Market belum buka. Tapi kau dah ada bias: "Isnin ni gold naik."
@@ -208,7 +210,7 @@ Harga buka, gerak sikit ke atas, kau terus buy. Takde level. Takde tempat salah 
 
 Rule #30: tulis plan sebelum session. Tiga baris je:
 • Level mana aku tunggu
-• Apa mesti jadi kat level tu (candle M5 close, bukan wick)
+• Apa mesti jadi kat level tu sebelum aku entry
 • Kat mana aku salah
 
 Takde dalam plan, takde entry.
@@ -339,12 +341,14 @@ Education je. Bukan nasihat kewangan. Trading ada risiko rugi.
 
 ### Wed 2 Dec, 8:30am — Rule #33 — label every loss
 
-Zernio `6afe7f8e791dfc4cd35447c5` · `2026-12-02T00:30:00Z` · 431 characters · tags `tmd, v3, d33, pagi`
+Zernio `6afe7f8e791dfc4cd35447c5` · `2026-12-02T00:30:00Z` · 434 characters · tags `tmd, v3, d33, pagi`
+
+Corrected 22 Nov 2026 (owner approved): "sebelum candle M5 close" became "sebelum breakout M15 close".
 
 ```
 Lima loss minggu ni. Kau dah yakin strategy kau rosak.
 
-Tapi buka journal. Tiga daripada lima tu, kau entry sebelum candle M5 close. Satu lagi, kau tarik SL.
+Tapi buka journal. Tiga daripada lima tu, kau entry sebelum breakout M15 close. Satu lagi, kau tarik SL.
 
 Rule #33: setiap loss, terus label. IKUT RULE atau LANGGAR RULE.
 

@@ -2,7 +2,7 @@
 
 **Agent:** TMD_CONTENT_LAB
 **Created:** 2026-11-18 · **Revised:** 2026-11-18 (owner decisions)
-**Status:** SCHEDULED — Zernio `6afe7f6cd7ba16ea80d74c74`, Mon 23 Nov 2026 9:00pm MYT (`2026-11-23T13:00:00Z`), combined version only. Scheduled 19 Nov under the owner's delegation; record in `CONTENT/threads/2026-11-19-delegated-schedule-23-nov-5-dec.md`. The optional reply is not scheduled.
+**Status:** SCHEDULED — Zernio `6afe7f6cd7ba16ea80d74c74`, Mon 23 Nov 2026 9:00pm MYT (`2026-11-23T13:00:00Z`), combined version only. Scheduled 19 Nov under the owner's delegation; held 22 Nov and corrected with the owner's approval the same day; record in `CONTENT/threads/2026-11-19-delegated-schedule-23-nov-5-dec.md`. The optional reply is not scheduled.
 **Class:** Educational
 **Segment:** General
 **Voice:** Campaign (Manglish)
@@ -21,27 +21,29 @@
 | 6 Nov, 3pm (NFP live) | "Baru cari setup: H4 zone, breakout M15, entry M1" |
 | 6 Nov, 9pm (community invitation) | "…webinar… 8 Nov: cara aku precise entry zone M1." |
 
-## Post for Mon 23 Nov, 9pm — combined version (384 characters)
+## Post for Mon 23 Nov, 9pm — combined version (409 characters)
+
+**Corrected 22 Nov 2026 (owner approved):** the M5 step now matches the owner's execution rule (entry on rejection at the M5 zone, no candle-close wait).
 
 ```
 Penjelasan: step entry dalam post 4 dan 6 Nov.
 
 Post tu sebut H4 zone, M15 breakout, M1 entry.
 
-Standard execution aku sekarang M5 (Rule #16):
-1. H4: tanda zone.
-2. M15: tunggu breakout dalam zone tu.
-3. M5: entry lepas candle M5 close. Wick bukan confirmation.
+Timeframe execution aku sekarang M5, bukan M1:
+1. HTF: tanda struktur, tunggu candle close kat luar.
+2. M15: breakout baru, candle close kat luar.
+3. M5: entry kat zone M5 bila harga reject.
 
 Mana-mana post awal yang sebut entry M1, baca sebagai M5.
 
 Education je. Bukan nasihat kewangan. Trading ada risiko rugi.
 ```
 
-## Optional reply under each of the three posts (184 characters)
+## Optional reply under each of the three posts (183 characters; corrected 22 Nov, not approved for posting)
 
 ```
-Penjelasan: standard execution aku sekarang M5, bukan M1. H4 zone, M15 breakout, entry lepas candle M5 close (Rule #16).
+Penjelasan: execution aku sekarang M5, bukan M1. HTF struktur, M15 breakout close, entry kat zone M5 bila harga reject.
 
 Education je. Bukan nasihat kewangan. Trading ada risiko rugi.
 ```
