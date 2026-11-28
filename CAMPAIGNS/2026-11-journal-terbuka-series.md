@@ -5,7 +5,7 @@
 **Status:** DRAFT. The format needs the owner's approval before the first post, because `BRAND/voice-campaign-manglish.md` lists profit screenshots under "Never".
 **Class:** Educational, built on the owner's real trades
 **Voice:** Campaign (Manglish)
-**Channel / slot:** Threads `themarketdoctrine88`, Saturday 12:30pm (replaces the one-line question). First post: Sat 28 Nov 2026, covering Mon 23 – Fri 27 Nov.
+**Channel / slot:** Threads `themarketdoctrine88`, Saturday 12:30pm (replaces the one-line question). First post: the first Saturday after the owner approves the format and sends that week's trades by 10:00am. 28 Nov passed without approval, so the question post ran. Earliest now: Sat 5 Dec 2026, covering Mon 30 Nov – Fri 4 Dec.
 **Approval:** Reviewed by — · Approved by — · Date —
 
 ---
@@ -67,7 +67,7 @@ Education je. Bukan nasihat kewangan. Trading ada risiko rugi.
 
 ## Second format (optional, later)
 
-**Trade breakdown.** One real trade: zone H4, breakout M15, entry after an M5 close, SL, TP, result in R, and the rule it followed or broke. Before and after screenshots. At most once a week, in a 9pm slot.
+**Trade breakdown.** One real trade: zone H4, breakout M15, entry on rejection at the M5 zone, SL, TP, result in R, and the rule it followed or broke. Before and after screenshots. At most once a week, in a 9pm slot.
 
 ## The 21 Nov post
 
